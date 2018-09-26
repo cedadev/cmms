@@ -4,7 +4,6 @@ phenomena:
   gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
   names:
   - Air Temperature
-  - Cheese
 - best_name: Windspeed
 - best_name: Rain
   gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
