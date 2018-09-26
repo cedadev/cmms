@@ -1,0 +1,97 @@
+phenomena:
+- best_name: Ice Depth
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Height
+- best_name: Geopotential Height
+  gcmd_name: Geopotential Height
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+  names:
+  - Geopotential Height
+- best_name: Ice Growth
+- best_name: Ocean Currents
+  gcmd_name: Ocean Currents
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0574
+  names:
+  - Ocean Currents
+- best_name: Ocean Mixed Layer
+  gcmd_name: Ocean Mixed Layer
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0575
+  names:
+  - Ocean Mixed Layer
+- best_name: Eddies
+  gcmd_name: EARTH SCIENCE > Oceans > Ocean Circulation > Eddies
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G916
+  names: Eddies,EARTH SCIENCE > Oceans > Ocean Circulation > Eddies
+- best_name: Humidity
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+  names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- best_name: Salinity
+  gcmd_name: EARTH SCIENCE > Cryosphere > Sea Ice > Salinity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G517
+  names: Salinity,EARTH SCIENCE > Cryosphere > Sea Ice > Salinity
+- best_name: Density
+  gcmd_name: EARTH SCIENCE > Oceans > Salinity/Density > Density
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G990
+  names: Density,EARTH SCIENCE > Oceans > Salinity/Density > Density
+- best_name: Melt
+- best_name: Temperature
+- best_name: Frequency
+- best_name: Latitudinal Component Of Gravity Wave Stress
+- best_name: Cloud Amount
+- best_name: Relative Humidity
+- best_name: Thickness
+- best_name: Cloud Fraction
+- best_name: Mean Ice
+- best_name: Cloud Liquid Water
+- best_name: Sea Ice Concentration
+  gcmd_name: Sea Ice Concentration
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
+  names:
+  - Sea Ice Concentration
+- best_name: U Zonal Windspeed
+- best_name: Upper Level Winds
+  gcmd_name: Upper Level Winds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+  names:
+  - Upper Level Winds
+- best_name: Water Content
+- best_name: Soil Moisture
+- best_name: Potential Vorticity
+- best_name: Vorticity
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
+  names: Vorticity,EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+- best_name: V Meridional Windspeed
+- best_name: Potential Temperature
+  gcmd_name: Potential Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
+  names:
+  - Potential Temperature
+- best_name: Soil Wetness Level 4
+- best_name: Soil Wetness Level 2
+- best_name: Soil Wetness Level 1
+- best_name: Soil Wetness Level 3
+- best_name: Wind Stress
+  gcmd_name: Wind Stress
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
+  names:
+  - Wind Stress
+- best_name: Meridional Component Of Gravity Wave Stress
+- best_name: Snow Cover
+  gcmd_name: Snow Cover
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
+  names:
+  - Snow Cover
+- best_name: Ice
+- best_name: Divergence
+- best_name: Convergence
+- best_name: Sea Surface Temperature
+  gcmd_name: Sea Surface Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
+  names:
+  - Sea Surface Temperature

@@ -1,0 +1,26 @@
+phenomena:
+- best_name: Albedo
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
+  names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+- best_name: Radiative Flux
+  gcmd_name: Radiative Flux
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0677
+  names:
+  - Radiative Flux
+- best_name: Solar Irradiance
+  gcmd_name: Solar Irradiance
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
+  names:
+  - Solar Irradiance
+- best_name: Net Radiation
+  gcmd_name: Net Radiation
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
+  names:
+  - Net Radiation
+- best_name: Shortwave Radiation
+  gcmd_name: Shortwave Radiation
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755
+  names:
+  - Shortwave Radiation
+- best_name: Incidence

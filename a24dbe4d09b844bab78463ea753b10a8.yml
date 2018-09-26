@@ -1,0 +1,62 @@
+phenomena:
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Geopotential Height
+  gcmd_name: Geopotential Height
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+  names:
+  - Geopotential Height
+- best_name: Aerosol Backscatter
+  gcmd_name: Aerosol Backscatter
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0016
+  names:
+  - Aerosol Backscatter
+- best_name: Aerosol Particle Properties
+  gcmd_name: Aerosol Particle Properties
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0019
+  names:
+  - Aerosol Particle Properties
+- best_name: Humidity
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+  names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- best_name: Barometric Altitude
+  gcmd_name: Barometric Altitude
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
+  names:
+  - Barometric Altitude
+- best_name: Dew Point Temperature
+  gcmd_name: Dew Point Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+  names:
+  - Dew Point Temperature
+- best_name: Nitrous Oxide
+  gcmd_name: Nitrous Oxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+  names:
+  - Nitrous Oxide
+- best_name: Nitrogen Compounds
+  gcmd_name: Nitrogen Compounds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+  names:
+  - Nitrogen Compounds
+- best_name: Nitrogen Oxides
+  gcmd_name: Nitrogen Oxides
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+  names:
+  - Nitrogen Oxides
+- best_name: Ozone
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds >
+    Ozone
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+  names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    > Ozone
+- best_name: Oxygen Compounds
+- best_name: Atmospheric Pressure Measurements
+  gcmd_name: Atmospheric Pressure Measurements
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+  names:
+  - Atmospheric Pressure Measurements

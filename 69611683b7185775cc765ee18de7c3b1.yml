@@ -1,0 +1,91 @@
+phenomena:
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Barometric Altitude
+  gcmd_name: Barometric Altitude
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
+  names:
+  - Barometric Altitude
+- best_name: Nitrous Oxide
+  gcmd_name: Nitrous Oxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+  names:
+  - Nitrous Oxide
+- best_name: Nitrogen Compounds
+  gcmd_name: Nitrogen Compounds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+  names:
+  - Nitrogen Compounds
+- best_name: Nitrogen Oxides
+  gcmd_name: Nitrogen Oxides
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+  names:
+  - Nitrogen Oxides
+- best_name: Ozone
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds >
+    Ozone
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+  names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    > Ozone
+- best_name: Oxygen Compounds
+- best_name: Aerosol Extinction
+  gcmd_name: Aerosol Extinction
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
+  names:
+  - Aerosol Extinction
+- best_name: Water Vapor
+  gcmd_name: Water Vapor
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
+  names:
+  - Water Vapor
+- best_name: Halons And Halogens
+- best_name: Nitrogen Dioxide
+  gcmd_name: Nitrogen Dioxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+  names:
+  - Nitrogen Dioxide
+- best_name: Carbon And Hydrocarbon Compounds
+- best_name: Trace Species
+- best_name: Trace Gases
+- best_name: Nitric Acid
+  gcmd_name: Nitric Acid
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
+  names:
+  - Nitric Acid
+- best_name: Chlorofluorocarbons
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    > Chlorofluorocarbons
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
+  names: Chlorofluorocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons
+    and Halogens > Chlorofluorocarbons
+- best_name: Methane
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    Compounds > Methane
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+  names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    Compounds > Methane
+- best_name: 'NO'
+  names: NO,Nitric Oxide,,
+- best_name: ClONO2
+  names: ClONO2,Chlorine Nitrate,,
+- best_name: CFCl3
+  names: CFCl3,Trichlorofluoromethane,,
+- best_name: Chlorine Nitrate
+  gcmd_name: Chlorine Nitrate
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0129
+  names:
+  - Chlorine Nitrate
+- best_name: N2O5
+  names: N2O5,Dinitrogen,,
+- best_name: Extinction At 880 cm-1
+- best_name: Extinction At 1605 cm-1
+- best_name: Extinction At 780 cm-1
+- best_name: Extinction At 1257 cm-1
+- best_name: Extinction At 925 cm-1
+- best_name: Extinction At 1897 cm-1
+- best_name: Extinction At 790 cm-1
+- best_name: CF2Cl2
+  names: CF2Cl2,Dichlorodifluoromethane,,

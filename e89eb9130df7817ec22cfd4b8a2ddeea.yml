@@ -1,0 +1,43 @@
+phenomena:
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Humidity
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+  names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- best_name: Dew Point Temperature
+  gcmd_name: Dew Point Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+  names:
+  - Dew Point Temperature
+- best_name: Temperature
+- best_name: Frequency
+- best_name: Cloud Amount
+- best_name: Wind Direction
+- best_name: Surface Winds
+  gcmd_name: Surface Winds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+  names:
+  - Surface Winds
+- best_name: Windspeed
+- best_name: Humidity Mixing Ratio
+- best_name: Reflectance
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
+  names: Reflectance,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+- best_name: Precipitation Amount
+  gcmd_name: Precipitation Amount
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
+  names:
+  - Precipitation Amount
+- best_name: Rainfall Drop Count
+- best_name: Rainfall Tip Count
+- best_name: Radar Reflectivity Factor
+- best_name: Number Of Cloud Bases
+- best_name: Cloud Images
+- best_name: Range Of The Second Cloud Base From The Lidar
+- best_name: Range Of The Third Cloud Base From The Lidar
+- best_name: Range Of The First Cloud Base From The Lidar

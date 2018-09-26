@@ -1,0 +1,178 @@
+phenomena:
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Vertical Gradient Of Temperature
+- best_name: Geopotential Height
+  gcmd_name: Geopotential Height
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+  names:
+  - Geopotential Height
+- best_name: Trace Metals
+  gcmd_name: Trace Metals
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0888
+  names:
+  - Trace Metals
+- best_name: Trace Elements
+  gcmd_name: Trace Elements
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0885
+  names:
+  - Trace Elements
+- best_name: F
+  names: F,Fluorine,,
+- best_name: Humidity
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+  names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- best_name: Dew Point Temperature
+  gcmd_name: Dew Point Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+  names:
+  - Dew Point Temperature
+- best_name: Nitrous Oxide
+  gcmd_name: Nitrous Oxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+  names:
+  - Nitrous Oxide
+- best_name: Nitrogen Compounds
+  gcmd_name: Nitrogen Compounds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+  names:
+  - Nitrogen Compounds
+- best_name: Nitrogen Oxides
+  gcmd_name: Nitrogen Oxides
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+  names:
+  - Nitrogen Oxides
+- best_name: Ozone
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds >
+    Ozone
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+  names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    > Ozone
+- best_name: Oxygen Compounds
+- best_name: Atmospheric Pressure Measurements
+  gcmd_name: Atmospheric Pressure Measurements
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+  names:
+  - Atmospheric Pressure Measurements
+- best_name: Total Ozone Column
+- best_name: Water Vapor
+  gcmd_name: Water Vapor
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
+  names:
+  - Water Vapor
+- best_name: Temperature
+- best_name: HCN
+  names: HCN,Hydrogen cyanide,,
+- best_name: ClONO2
+  names: ClONO2,Chlorine Nitrate,,
+- best_name: HF
+  names: HF,Hydrogen Fluoride,,
+- best_name: Sulfur Oxides
+  gcmd_name: Sulfur Oxides
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0844
+  names:
+  - Sulfur Oxides
+- best_name: Halons And Halogens
+- best_name: Nitrogen Dioxide
+  gcmd_name: Nitrogen Dioxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+  names:
+  - Nitrogen Dioxide
+- best_name: NO3
+  names: NO3,Nitrate,,
+- best_name: Carbon Monoxide
+  gcmd_name: Carbon Monoxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
+  names:
+  - Carbon Monoxide
+- best_name: Carbon And Hydrocarbon Compounds
+- best_name: Halocarbons
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    > Halocarbons
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
+  names: Halocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and
+    Halogens > Halocarbons
+- best_name: Particulate Matter
+  gcmd_name: Particulate Matter
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0612
+  names:
+  - Particulate Matter
+- best_name: Sulfur Compounds
+- best_name: Wind Direction
+- best_name: Windspeed
+- best_name: CN
+  names: CN,Cyanide,,
+- best_name: Trace Species
+- best_name: Trace Gases
+- best_name: Nitric Acid
+  gcmd_name: Nitric Acid
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
+  names:
+  - Nitric Acid
+- best_name: SO3
+  names: SO3,Sulfur trioxide,Sulphur trioxide,
+- best_name: Upper Level Winds
+  gcmd_name: Upper Level Winds
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+  names:
+  - Upper Level Winds
+- best_name: Humidity Mixing Ratio
+- best_name: HOCl
+  names: HOCl,hypochlorous acid,,
+- best_name: CCl4
+  names: CCl4,Tetrachloromethane,,
+- best_name: Cl
+  names: Cl,Clorine,,
+- best_name: Potential Temperature
+  gcmd_name: Potential Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
+  names:
+  - Potential Temperature
+- best_name: HCl
+  names: HCl,Hydrogen Chloride,,
+- best_name: CFC-11
+  names: CFC-11,Trichlorofluoromethane,,
+- best_name: Chlorofluorocarbons
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    > Chlorofluorocarbons
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
+  names: Chlorofluorocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons
+    and Halogens > Chlorofluorocarbons
+- best_name: Chlorine Monoxide
+  gcmd_name: Chlorine Monoxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0128
+  names:
+  - Chlorine Monoxide
+- best_name: CFC-113
+  names: CFC-113,1,1,2-Trichlorotrifluoroethane,,
+- best_name: Methane
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    Compounds > Methane
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+  names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    Compounds > Methane
+- best_name: Carbon Dioxide
+  gcmd_name: Carbon Dioxide
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
+  names:
+  - Carbon Dioxide
+- best_name: NOY
+- best_name: Chlorine Nitrate
+  gcmd_name: Chlorine Nitrate
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0129
+  names:
+  - Chlorine Nitrate
+- best_name: Bro
+  names: Bro,Bromine,,
+- best_name: HNO3 COLUMN
+  names: HNO3 COLUMN,Nitric Acid Column,,
+- best_name: CH3CCl3
+  names: CH3CCl3,Trichloroethane,,
+- best_name: CFC-12
+  names: CFC-12,Dichlorodifluoromethane,,
+- best_name: 'NO'
+  names: NO,Nitric Oxide,,

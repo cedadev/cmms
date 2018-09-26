@@ -1,0 +1,50 @@
+phenomena:
+- best_name: Mean Sea Level Pressure
+- best_name: Air Temperature
+  gcmd_name: Air Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+  names:
+  - Air Temperature
+- best_name: Mean Surface Air Temperature
+- best_name: Maximum Surface Air Temperature
+- best_name: Minimum Surface Air Temperature
+- best_name: Relative Humidity
+- null
+- best_name: Water Vapor
+  gcmd_name: Water Vapor
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
+  names:
+  - Water Vapor
+- best_name: Temperature
+- null
+- best_name: Snow
+  gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
+  names: Snow,EARTH SCIENCE > Atmosphere > Precipitation > Snow
+- null
+- null
+- null
+- null
+- best_name: Windspeed
+- best_name: Atmospheric Temperature
+  gcmd_name: Atmospheric Temperature
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
+  names:
+  - Atmospheric Temperature
+- best_name: Cloud Cover
+- best_name: Frost
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G177
+  names: Frost,EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
+- best_name: Vapour Pressure
+- best_name: Rain
+  gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+  names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- best_name: Snow Lying
+- null
+- best_name: Day Of Snow
+- best_name: Sunshine
+  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
+  names: Sunshine,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
