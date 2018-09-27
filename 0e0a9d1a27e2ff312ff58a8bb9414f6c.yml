@@ -1,0 +1,21 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Windspeed
+- Rain:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+    names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- Microwave:
+    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Microwave
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H418
+    names: Microwave,EARTH SCIENCE > Spectral/Engineering > Microwave
+- Radar:
+    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Radar
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H420
+    names: Radar,EARTH SCIENCE > Spectral/Engineering > Radar

@@ -1,0 +1,4 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- 30 cm Soil Temperature

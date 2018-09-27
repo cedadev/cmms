@@ -1,0 +1,7 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Aerosols:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
+    names: Aerosols,EARTH SCIENCE > Atmosphere > Aerosols

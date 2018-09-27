@@ -1,0 +1,45 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Snow Depth:
+    gcmd_name: Snow Depth
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
+    names:
+    - Snow Depth
+- Snow:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
+    names: Snow,EARTH SCIENCE > Atmosphere > Precipitation > Snow
+- Wind Direction
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Atmospheric Winds:
+    gcmd_name: Atmospheric Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
+    names:
+    - Atmospheric Winds
+- Windspeed
+- Rain:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+    names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- Lightning:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
+    names: Lightning,EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+- Ice
+- Hourly Sunshine
+- Sunshine:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
+    names: Sunshine,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+- Sunshine Amount
+- 10 Minute Mean Wind Speed
+- 10 Minute Mean Wind Direction
+- 10 Metre U Wind
+- 10 Metre V Wind
+- Mean Hourly Wind Speed
+- Mean Hourly Wind Direction

@@ -1,0 +1,5 @@
+splice rules:
+  phenomena: append_new_only
+phenomena:
+- HNO3:
+    names: HNO3,Nitric Acid,,

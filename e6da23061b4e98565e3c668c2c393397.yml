@@ -1,0 +1,79 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Height
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Dew Point Temperature:
+    gcmd_name: Dew Point Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+    names:
+    - Dew Point Temperature
+- Atmospheric Pressure Measurements:
+    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+    names:
+    - Atmospheric Pressure Measurements
+- Temperature
+- Relative Humidity
+- Atmospheric Water Vapor:
+    gcmd_name: Atmospheric Water Vapor
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0026
+    names:
+    - Atmospheric Water Vapor
+- Wind Direction
+- Atmospheric Winds:
+    gcmd_name: Atmospheric Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
+    names:
+    - Atmospheric Winds
+- Windspeed
+- Atmospheric Temperature:
+    gcmd_name: Atmospheric Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
+    names:
+    - Atmospheric Temperature
+- Atmospheric Pressure:
+    gcmd_name: Atmospheric Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0023
+    names:
+    - Atmospheric Pressure
+- Upper Level Winds:
+    gcmd_name: Upper Level Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+    names:
+    - Upper Level Winds
+- Humidity Mixing Ratio
+- Height From Sonde Data
+- Altitude:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Altitude
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H318
+    names: Altitude,EARTH SCIENCE > Atmosphere > Altitude
+- Temperature Profiles:
+    gcmd_name: Temperature Profiles
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0862
+    names:
+    - Temperature Profiles
+- Temperature At 900 mb
+- Temperature At 740 mb
+- Temperature At 620 mb
+- Temperature At 500 mb
+- Temperature At 375 mb
+- Temperature At 245 mb
+- Temperature At 115 mb
+- Tropopause Pressure
+- Tropopause Temperature
+- Stratosphere Temperature At 50 mb
+- Stratosphere Temperature At 15 mb

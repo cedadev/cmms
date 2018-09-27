@@ -1,0 +1,9 @@
+splice rules:
+  phenomena: append_new_only
+phenomena:
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane

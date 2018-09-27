@@ -1,0 +1,39 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Snow:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
+    names: Snow,EARTH SCIENCE > Atmosphere > Precipitation > Snow
+- Snow Cover:
+    gcmd_name: Snow Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
+    names:
+    - Snow Cover
+- Ice
+- Land Cover:
+    gcmd_name: Land Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
+    names:
+    - Land Cover
+- Estimates
+- Soil Temperature:
+    gcmd_name: Soil Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
+    names:
+    - Soil Temperature
+- NDVI Estimates
+- Vegetation Index:
+    gcmd_name: Vegetation Index
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0916
+    names:
+    - Vegetation Index
+- Vegetation:
+    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
+    names: Vegetation,EARTH SCIENCE > Biosphere > Vegetation
+- Emissivity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G203
+    names: Emissivity,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
+- Bare Soil

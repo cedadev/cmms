@@ -1,0 +1,16 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Atmospheric Pressure Measurements:
+    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+    names:
+    - Atmospheric Pressure Measurements
+- Temperature
+- Relative Humidity

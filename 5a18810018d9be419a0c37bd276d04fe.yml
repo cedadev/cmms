@@ -1,0 +1,8 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Total Cloud Cover
+- Cloud Cover
+- Low Cloud Cover
+- High Cloud Cover
+- Medium Cloud Cover

@@ -1,0 +1,56 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Sunshine Amount
+- Mean Near-Surface Air Temperature
+- 10 Metre U Wind
+- 10 Metre V Wind
+- Wind Direction
+- Cloud Amount
+- Clouds:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
+    names: Clouds,EARTH SCIENCE > Atmosphere > Clouds
+- Rain:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+    names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- Mean Hourly Wind Speed
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Atmospheric Winds:
+    gcmd_name: Atmospheric Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
+    names:
+    - Atmospheric Winds
+- Windspeed
+- Mean Hourly Wind Direction
+- Low Cloud Cover
+- High Cloud Cover
+- Medium Cloud Cover
+- Wet Bulb Temperature
+- 10 Minute Mean Wind Speed
+- Cloud Types:
+    gcmd_name: Cloud Types
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
+    names:
+    - Cloud Types
+- Max Dry Bulb Temperature
+- Minimum Temperature
+- 10 Minute Mean Wind Direction
+- 2 Metre Temperature
+- Min Dry Bulb Temperature
+- Dry Bulb Temperature
+- Low Cloud Amount
+- Total Cloud Cover
+- Hourly Sunshine
+- Ice
+- Duration Of Rain
+- Wind Gusts At 10 m
+- Sunshine:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
+    names: Sunshine,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine

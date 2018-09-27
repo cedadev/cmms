@@ -1,0 +1,6 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- NOX
+- 'NO':
+    names: NO,Nitric Oxide,,

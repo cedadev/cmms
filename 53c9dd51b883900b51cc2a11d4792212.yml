@@ -1,0 +1,46 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Barometric Altitude:
+    gcmd_name: Barometric Altitude
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
+    names:
+    - Barometric Altitude
+- Nitrogen Compounds:
+    gcmd_name: Nitrogen Compounds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+    names:
+    - Nitrogen Compounds
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- Extinction At 385 nm
+- Aerosol Extinction:
+    gcmd_name: Aerosol Extinction
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
+    names:
+    - Aerosol Extinction
+- Temperature
+- Extinction At 1020 nm
+- Nitrogen Dioxide:
+    gcmd_name: Nitrogen Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+    names:
+    - Nitrogen Dioxide
+- Relative Humidity
+- Humidity Mixing Ratio
+- Extinction At 525 m
+- Extinction At 453 nm

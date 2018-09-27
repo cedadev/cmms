@@ -1,0 +1,31 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Height
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Relative Humidity
+- Wind Direction
+- Windspeed
+- Upper Level Winds:
+    gcmd_name: Upper Level Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+    names:
+    - Upper Level Winds
+- Humidity Mixing Ratio
+- Height From Sonde Data
+- Vertical Profile Of Air Temperature
+- Height From Radar Data
+- Slant Range Of Sonde

@@ -1,0 +1,12 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Nitrogen Dioxide:
+    gcmd_name: Nitrogen Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+    names:
+    - Nitrogen Dioxide
+- Nitrogen:
+    gcmd_name: EARTH SCIENCE > Agriculture > Soils > Nitrogen
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G064
+    names: Nitrogen,EARTH SCIENCE > Agriculture > Soils > Nitrogen

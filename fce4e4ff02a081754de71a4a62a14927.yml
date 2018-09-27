@@ -1,0 +1,9 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Mean Sea Level Pressure
+- Sea Level Pressure:
+    gcmd_name: Sea Level Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
+    names:
+    - Sea Level Pressure

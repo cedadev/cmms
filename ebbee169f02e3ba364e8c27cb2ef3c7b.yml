@@ -1,0 +1,8 @@
+splice rules:
+  phenomena: append_new_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature

@@ -1,0 +1,10 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Wind Direction
+- Windspeed
+- Upper Level Winds:
+    gcmd_name: Upper Level Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+    names:
+    - Upper Level Winds

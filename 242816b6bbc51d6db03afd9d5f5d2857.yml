@@ -1,0 +1,16 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Windspeed
+- Atmospheric Pressure:
+    gcmd_name: Atmospheric Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0023
+    names:
+    - Atmospheric Pressure
+- Vertical Velocity
+- Vapour Pressure

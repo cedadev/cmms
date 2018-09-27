@@ -1,0 +1,72 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Nitrogen Oxides:
+    gcmd_name: Nitrogen Oxides
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+    names:
+    - Nitrogen Oxides
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- Halons And Halogens
+- Atmospheric Chemistry:
+    gcmd_name: Atmospheric Chemistry
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
+    names:
+    - Atmospheric Chemistry
+- Carbon And Hydrocarbon Compounds
+- Halocarbons:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+      > Halocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
+    names: Halocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and
+      Halogens > Halocarbons
+- Hydroperoxy:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen Compounds
+      > Hydroperoxy
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G153
+    names: Hydroperoxy,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen
+      Compounds > Hydroperoxy
+- Hydrogen Compounds
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+- Hydroxyl:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen Compounds
+      > Hydroxyl
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G154
+    names: Hydroxyl,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen Compounds
+      > Hydroxyl
+- Non-methane Hydrocarbons:
+    gcmd_name: Non-methane Hydrocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0563
+    names:
+    - Non-methane Hydrocarbons
+- Air Quality:
+    gcmd_name: Air Quality
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0006
+    names:
+    - Air Quality
+- Formaldehyde:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Formaldehyde
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G135
+    names: Formaldehyde,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon
+      and Hydrocarbon Compounds > Formaldehyde
+- Nitrate:
+    gcmd_name: EARTH SCIENCE > Oceans > Ocean Chemistry > Nitrate
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G892
+    names: Nitrate,EARTH SCIENCE > Oceans > Ocean Chemistry > Nitrate
+- Ocean Chemistry:
+    gcmd_name: Ocean Chemistry
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0074
+    names:
+    - Ocean Chemistry

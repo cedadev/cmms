@@ -1,0 +1,45 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Dew Point Temperature:
+    gcmd_name: Dew Point Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+    names:
+    - Dew Point Temperature
+- Temperature
+- Frequency
+- Cloud Amount
+- Wind Direction
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Windspeed
+- Humidity Mixing Ratio
+- Reflectance:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
+    names: Reflectance,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+- Precipitation Amount:
+    gcmd_name: Precipitation Amount
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
+    names:
+    - Precipitation Amount
+- Rainfall Drop Count
+- Rainfall Tip Count
+- Radar Reflectivity Factor
+- Number Of Cloud Bases
+- Cloud Images
+- Range Of The Second Cloud Base From The Lidar
+- Range Of The Third Cloud Base From The Lidar
+- Range Of The First Cloud Base From The Lidar
