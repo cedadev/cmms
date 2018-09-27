@@ -4,46 +4,32 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Height
 - Geopotential Height:
     gcmd_name: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
-    names:
-    - Geopotential Height
 - Surface Air Temperature:
     gcmd_name: Surface Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0848
-    names:
-    - Surface Air Temperature
 - Humidity:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
-    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
 - Dew Point Temperature:
     gcmd_name: Dew Point Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
-    names:
-    - Dew Point Temperature
 - Albedo:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
-    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
 - Temperature
 - Frequency
 - Cloud Amount
 - Cloud Forcing:
     gcmd_name: Cloud Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0142
-    names:
-    - Cloud Forcing
 - Wind Direction
 - Surface Winds:
     gcmd_name: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
-    names:
-    - Surface Winds
 - Windspeed
 - Thickness
 - Trace Species
@@ -52,116 +38,74 @@ phenomena:
 - Sea Surface Temperature:
     gcmd_name: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
-    names:
-    - Sea Surface Temperature
 - U Zonal Windspeed
 - Upper Level Winds:
     gcmd_name: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
-    names:
-    - Upper Level Winds
 - Snow Cover:
     gcmd_name: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
-    names:
-    - Snow Cover
 - Surface Pressure:
     gcmd_name: Surface Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0850
-    names:
-    - Surface Pressure
 - Cloud Optical Depth
 - Cloud Top Pressure:
     gcmd_name: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
-    names:
-    - Cloud Top Pressure
 - Emissions:
     gcmd_name: EARTH SCIENCE > Atmosphere > Air Quality > Emissions
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G113
-    names: Emissions,EARTH SCIENCE > Atmosphere > Air Quality > Emissions
 - Precipitable Water:
     gcmd_name: Precipitable Water
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0655
-    names:
-    - Precipitable Water
 - Irradiance:
     gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G947
-    names: Irradiance,EARTH SCIENCE > Oceans > Ocean Optics > Irradiance
 - Industrial Emissions:
     gcmd_name: Industrial Emissions
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0416
-    names:
-    - Industrial Emissions
 - Total Radiation
 - Solar Radiation:
     gcmd_name: Solar Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0812
-    names:
-    - Solar Radiation
 - Radiative Forcing:
     gcmd_name: Radiative Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0678
-    names:
-    - Radiative Forcing
 - Outgoing Longwave Radiation:
     gcmd_name: Outgoing Longwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0589
-    names:
-    - Outgoing Longwave Radiation
 - Transmittance:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Transmittance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G218
-    names: Transmittance,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Transmittance
 - Heat Flux:
     gcmd_name: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368
-    names:
-    - Heat Flux
 - Sea Surface Height:
     gcmd_name: Sea Surface Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0726
-    names:
-    - Sea Surface Height
 - Optical Depth:
     gcmd_name: Optical Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0582
-    names:
-    - Optical Depth
 - Solar Radio Wave Emissions:
     gcmd_name: Solar Radio Wave Emissions
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0813
-    names:
-    - Solar Radio Wave Emissions
 - Visibility:
     gcmd_name: EARTH SCIENCE > Atmosphere > Air Quality > Visibility
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G121
-    names: Visibility,EARTH SCIENCE > Atmosphere > Air Quality > Visibility
 - Cloud Types:
     gcmd_name: Cloud Types
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
-    names:
-    - Cloud Types
 - Vertical Profile Of Air Temperature
 - Temperature Anomalies:
     gcmd_name: Temperature Anomalies
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0861
-    names:
-    - Temperature Anomalies
 - Ice
 - Precipitation Amount:
     gcmd_name: Precipitation Amount
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
-    names:
-    - Precipitation Amount
 - Sea Ice Concentration:
     gcmd_name: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
-    names:
-    - Sea Ice Concentration
 - Solar Irradiance:
     gcmd_name: Solar Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
-    names:
-    - Solar Irradiance

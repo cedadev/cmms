@@ -4,21 +4,17 @@ phenomena:
 - Nitrous Oxide:
     gcmd_name: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
-    names:
-    - Nitrous Oxide
 - Ozone:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-      > Ozone
 - Nitrogen Dioxide:
     gcmd_name: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
-    names:
-    - Nitrogen Dioxide
 - HNO3:
-    names: HNO3,Nitric Acid,,
+    alt_names:
+    - Nitric Acid
 - HCl:
-    names: HCl,Hydrogen Chloride,,
+    alt_names:
+    - Hydrogen Chloride
 - NO2 Column

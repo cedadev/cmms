@@ -4,91 +4,61 @@ phenomena:
 - Albedo:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
-    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
 - Frequency
 - Cloud Amount
 - Snow Depth:
     gcmd_name: Snow Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
-    names:
-    - Snow Depth
 - Sea Surface Temperature:
     gcmd_name: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
-    names:
-    - Sea Surface Temperature
 - Reflectance:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
-    names: Reflectance,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
 - Snow Cover:
     gcmd_name: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
-    names:
-    - Snow Cover
 - Ice
 - Cloud Top Pressure:
     gcmd_name: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
-    names:
-    - Cloud Top Pressure
 - Net Radiation:
     gcmd_name: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
-    names:
-    - Net Radiation
 - Thickness
 - Cloud Optical Depth
 - Land Cover:
     gcmd_name: Land Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
-    names:
-    - Land Cover
 - Precipitation Amount:
     gcmd_name: Precipitation Amount
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
-    names:
-    - Precipitation Amount
 - Soil Depth:
     gcmd_name: Soil Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0784
-    names:
-    - Soil Depth
 - Soil Texture:
     gcmd_name: Soil Texture
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0802
-    names:
-    - Soil Texture
 - Sea Ice Concentration:
     gcmd_name: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
-    names:
-    - Sea Ice Concentration
 - Convective Precipitation
 - Vegetation Cover:
     gcmd_name: Vegetation Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0915
-    names:
-    - Vegetation Cover
 - Landforms:
     gcmd_name: EARTH SCIENCE > Land Surface > Topography > Landforms
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G793
-    names: Landforms,EARTH SCIENCE > Land Surface > Topography > Landforms
 - Surface Thermal Radiation
 - Hydropattern:
     gcmd_name: EARTH SCIENCE > Hydrosphere > Surface Water > Hydropattern
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G656
-    names: Hydropattern,EARTH SCIENCE > Hydrosphere > Surface Water > Hydropattern
 - Leaf Characteristics:
     gcmd_name: Leaf Characteristics
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0469
-    names:
-    - Leaf Characteristics
 - Canopy Characteristics:
     gcmd_name: Canopy Characteristics
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0109
-    names:
-    - Canopy Characteristics
 - Streams
 - Rivers
 - Flow
@@ -96,5 +66,3 @@ phenomena:
 - Photosynthetically Active Radiation:
     gcmd_name: Photosynthetically Active Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0627
-    names:
-    - Photosynthetically Active Radiation

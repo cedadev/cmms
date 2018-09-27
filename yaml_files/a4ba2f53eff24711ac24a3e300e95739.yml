@@ -4,6 +4,4 @@ phenomena:
 - Brightness Temperature:
     gcmd_name: Brightness Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0104
-    names:
-    - Brightness Temperature
 - Volcanic Ash

@@ -4,41 +4,27 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Barometric Altitude:
     gcmd_name: Barometric Altitude
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
-    names:
-    - Barometric Altitude
 - Nitrogen Compounds:
     gcmd_name: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
-    names:
-    - Nitrogen Compounds
 - Nitrogen Oxides:
     gcmd_name: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
-    names:
-    - Nitrogen Oxides
 - Ozone:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-      > Ozone
 - Oxygen Compounds
 - Extinction At 385 nm
 - Aerosol Extinction:
     gcmd_name: Aerosol Extinction
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
-    names:
-    - Aerosol Extinction
 - Water Vapor:
     gcmd_name: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
-    names:
-    - Water Vapor
 - Temperature
 - Extinction At 1020 nm
 - Frequency
@@ -46,13 +32,10 @@ phenomena:
 - Chlorine Dioxide:
     gcmd_name: Chlorine Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0127
-    names:
-    - Chlorine Dioxide
 - Halons And Halogens
 - Nitrogen Dioxide:
     gcmd_name: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
-    names:
-    - Nitrogen Dioxide
 - NO3:
-    names: NO3,Nitrate,,
+    alt_names:
+    - Nitrate

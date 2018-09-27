@@ -4,9 +4,7 @@ phenomena:
 - Precipitation:
     gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H334
-    names: Precipitation,EARTH SCIENCE > Atmosphere > Precipitation
 - Soils:
     gcmd_name: EARTH SCIENCE > Agriculture > Soils
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H315
-    names: Soils,EARTH SCIENCE > Agriculture > Soils
 - Rivers

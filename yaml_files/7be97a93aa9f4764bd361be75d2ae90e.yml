@@ -4,5 +4,3 @@ phenomena:
 - Infrared Imagery:
     gcmd_name: Infrared Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0420
-    names:
-    - Infrared Imagery

@@ -2,4 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - HCN:
-    names: HCN,Hydrogen cyanide,,
+    alt_names:
+    - Hydrogen cyanide

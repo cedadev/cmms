@@ -4,8 +4,6 @@ phenomena:
 - Soil Temperature:
     gcmd_name: Soil Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
-    names:
-    - Soil Temperature
 - Soil Temperature Level 3
 - Soil Temperature Level 4
 - Soil Temperature Level 1

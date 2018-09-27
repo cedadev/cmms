@@ -4,10 +4,6 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Geopotential Height:
     gcmd_name: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
-    names:
-    - Geopotential Height

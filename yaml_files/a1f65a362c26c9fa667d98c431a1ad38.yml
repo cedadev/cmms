@@ -5,13 +5,9 @@ phenomena:
 - Surface Winds:
     gcmd_name: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
-    names:
-    - Surface Winds
 - Atmospheric Winds:
     gcmd_name: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
-    names:
-    - Atmospheric Winds
 - Windspeed
 - 10 Minute Mean Wind Speed
 - 10 Minute Mean Wind Direction

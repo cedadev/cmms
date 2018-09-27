@@ -4,145 +4,93 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Temperature Profiles:
     gcmd_name: Temperature Profiles
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0862
-    names:
-    - Temperature Profiles
 - Nitrous Oxide:
     gcmd_name: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
-    names:
-    - Nitrous Oxide
 - Nitrogen Compounds:
     gcmd_name: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
-    names:
-    - Nitrogen Compounds
 - Nitrogen Oxides:
     gcmd_name: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
-    names:
-    - Nitrogen Oxides
 - Ozone:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-      > Ozone
 - Oxygen Compounds
 - Atmospheric Radiation:
     gcmd_name: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
-    names:
-    - Atmospheric Radiation
 - Water Vapor:
     gcmd_name: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
-    names:
-    - Water Vapor
 - Chlorine Dioxide:
     gcmd_name: Chlorine Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0127
-    names:
-    - Chlorine Dioxide
 - Halons And Halogens
 - Nitrogen Dioxide:
     gcmd_name: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
-    names:
-    - Nitrogen Dioxide
 - Atmospheric Chemistry:
     gcmd_name: Atmospheric Chemistry
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
-    names:
-    - Atmospheric Chemistry
 - Carbon Monoxide:
     gcmd_name: Carbon Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
-    names:
-    - Carbon Monoxide
 - Carbon And Hydrocarbon Compounds
 - Clouds:
     gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
-    names: Clouds,EARTH SCIENCE > Atmosphere > Clouds
 - Atmospheric Water Vapor:
     gcmd_name: Atmospheric Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0026
-    names:
-    - Atmospheric Water Vapor
 - Atmospheric Temperature:
     gcmd_name: Atmospheric Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
-    names:
-    - Atmospheric Temperature
 - Thickness
 - Trace Species
 - Trace Gases
 - Infrared Radiance:
     gcmd_name: Infrared Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0421
-    names:
-    - Infrared Radiance
 - Infrared Wavelengths:
     gcmd_name: Infrared Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
-    names:
-    - Infrared Wavelengths
 - Engineering
 - Visible Wavelengths:
     gcmd_name: Visible Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0112
-    names:
-    - Visible Wavelengths
 - Cloud Optical Depth
 - Methane:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
-    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
-      Compounds > Methane
 - Carbon Dioxide:
     gcmd_name: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
-    names:
-    - Carbon Dioxide
 - Formaldehyde:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Formaldehyde
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G135
-    names: Formaldehyde,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon
-      and Hydrocarbon Compounds > Formaldehyde
 - Aerosols:
     gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
-    names: Aerosols,EARTH SCIENCE > Atmosphere > Aerosols
 - Ultraviolet Wavelengths:
     gcmd_name: Ultraviolet Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0110
-    names:
-    - Ultraviolet Wavelengths
 - Aerosol Optical Depth
 - Bromine Monoxide:
     gcmd_name: Bromine Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0105
-    names:
-    - Bromine Monoxide
 - Ultraviolet Radiance:
     gcmd_name: Ultraviolet Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0906
-    names:
-    - Ultraviolet Radiance
 - Visible Radiance:
     gcmd_name: Visible Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0926
-    names:
-    - Visible Radiance
 - Water Vapor Profiles:
     gcmd_name: Water Vapor Profiles
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0944
-    names:
-    - Water Vapor Profiles

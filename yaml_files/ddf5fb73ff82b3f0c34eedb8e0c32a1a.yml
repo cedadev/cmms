@@ -4,30 +4,19 @@ phenomena:
 - Infrared Imagery:
     gcmd_name: Infrared Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0420
-    names:
-    - Infrared Imagery
 - Infrared Wavelengths:
     gcmd_name: Infrared Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
-    names:
-    - Infrared Wavelengths
 - Engineering
 - Microwave Imagery:
     gcmd_name: Microwave Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0527
-    names:
-    - Microwave Imagery
 - Microwave:
     gcmd_name: EARTH SCIENCE > Spectral/Engineering > Microwave
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H418
-    names: Microwave,EARTH SCIENCE > Spectral/Engineering > Microwave
 - Visible Imagery:
     gcmd_name: Visible Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0925
-    names:
-    - Visible Imagery
 - Visible Wavelengths:
     gcmd_name: Visible Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0112
-    names:
-    - Visible Wavelengths

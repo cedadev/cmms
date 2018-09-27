@@ -2,4 +2,5 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - OH:
-    names: OH,Hydroxide,,
+    alt_names:
+    - Hydroxide

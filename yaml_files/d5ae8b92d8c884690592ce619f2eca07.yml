@@ -4,5 +4,3 @@ phenomena:
 - Precipitation Rate:
     gcmd_name: Precipitation Rate
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0658
-    names:
-    - Precipitation Rate

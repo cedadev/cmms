@@ -2,4 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - NO3:
-    names: NO3,Nitrate,,
+    alt_names:
+    - Nitrate

@@ -4,25 +4,16 @@ phenomena:
 - Humidity:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
-    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
 - Ozone:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-      > Ozone
 - Atmospheric Pressure Measurements:
     gcmd_name: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
-    names:
-    - Atmospheric Pressure Measurements
 - Atmospheric Temperature:
     gcmd_name: Atmospheric Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
-    names:
-    - Atmospheric Temperature
 - Potential Temperature:
     gcmd_name: Potential Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
-    names:
-    - Potential Temperature

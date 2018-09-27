@@ -3,4 +3,5 @@ splice rules:
 phenomena:
 - NOX
 - 'NO':
-    names: NO,Nitric Oxide,,
+    alt_names:
+    - Nitric Oxide

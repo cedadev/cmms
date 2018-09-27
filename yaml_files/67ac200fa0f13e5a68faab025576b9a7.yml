@@ -4,9 +4,6 @@ phenomena:
 - Atmospheric Radiation:
     gcmd_name: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
-    names:
-    - Atmospheric Radiation
 - Absorption:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Absorption
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G197
-    names: Absorption,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Absorption

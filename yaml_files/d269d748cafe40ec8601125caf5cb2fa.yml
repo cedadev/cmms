@@ -4,5 +4,3 @@ phenomena:
 - Shortwave Radiation:
     gcmd_name: Shortwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755
-    names:
-    - Shortwave Radiation

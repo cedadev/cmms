@@ -4,37 +4,27 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Humidity:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
-    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
 - Temperature
 - Relative Humidity
 - Wind Direction
 - Surface Winds:
     gcmd_name: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
-    names:
-    - Surface Winds
 - Windspeed
 - U Zonal Windspeed
 - Upper Level Winds:
     gcmd_name: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
-    names:
-    - Upper Level Winds
 - Potential Vorticity
 - Vorticity:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
-    names: Vorticity,EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
 - V Meridional Windspeed
 - Wind Stress:
     gcmd_name: Wind Stress
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
-    names:
-    - Wind Stress
 - Meridional Component Of Gravity Wave Stress
 - Latitudinal Component Of Gravity Wave Stress

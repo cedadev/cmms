@@ -4,5 +4,3 @@ phenomena:
 - Doppler Velocity:
     gcmd_name: Doppler Velocity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0226
-    names:
-    - Doppler Velocity

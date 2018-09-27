@@ -4,26 +4,20 @@ phenomena:
 - Albedo:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
-    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
 - Anisotropy Of Sub Grid Scale Orography
 - Surface Roughness:
     gcmd_name: Surface Roughness
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0851
-    names:
-    - Surface Roughness
 - Standard Deviation Of Orography
 - Sea Mask
 - Land
 - Landforms:
     gcmd_name: EARTH SCIENCE > Land Surface > Topography > Landforms
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G793
-    names: Landforms,EARTH SCIENCE > Land Surface > Topography > Landforms
 - Logarithm Of Surface Roughness Length For Heat
 - Thermal Properties:
     gcmd_name: Thermal Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0868
-    names:
-    - Thermal Properties
 - Angle Of Sub Grid Scaleorography
 - Slope Of Sub-Grid Scale Orography
 - Geopotential (At The Surface, Orography)

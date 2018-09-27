@@ -4,71 +4,53 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Nitrous Oxide:
     gcmd_name: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
-    names:
-    - Nitrous Oxide
 - Nitrogen Compounds:
     gcmd_name: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
-    names:
-    - Nitrogen Compounds
 - Nitrogen Oxides:
     gcmd_name: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
-    names:
-    - Nitrogen Oxides
 - Ozone:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-      > Ozone
 - Oxygen Compounds
 - Water Vapor:
     gcmd_name: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
-    names:
-    - Water Vapor
 - Halons And Halogens
 - Nitrogen Dioxide:
     gcmd_name: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
-    names:
-    - Nitrogen Dioxide
 - Carbon And Hydrocarbon Compounds
 - Trace Species
 - Trace Gases
 - Nitric Acid:
     gcmd_name: Nitric Acid
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
-    names:
-    - Nitric Acid
 - CFC-11:
-    names: CFC-11,Trichlorofluoromethane,,
+    alt_names:
+    - Trichlorofluoromethane
 - Chlorofluorocarbons:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Chlorofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
-    names: Chlorofluorocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons
-      and Halogens > Chlorofluorocarbons
 - Methane:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
-    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
-      Compounds > Methane
 - CFC-12:
-    names: CFC-12,Dichlorodifluoromethane,,
+    alt_names:
+    - Dichlorodifluoromethane
 - ClONO2:
-    names: ClONO2,Chlorine Nitrate,,
+    alt_names:
+    - Chlorine Nitrate
 - N2O5:
-    names: N2O5,Dinitrogen,,
+    alt_names:
+    - Dinitrogen
 - Particulate Matter:
     gcmd_name: Particulate Matter
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0612
-    names:
-    - Particulate Matter

@@ -4,5 +4,3 @@ phenomena:
 - Surface Pressure:
     gcmd_name: Surface Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0850
-    names:
-    - Surface Pressure

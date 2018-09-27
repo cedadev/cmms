@@ -4,50 +4,32 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Sea Surface Temperature Anomalies
 - Sea Surface Temperature:
     gcmd_name: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
-    names:
-    - Sea Surface Temperature
 - Land Surface Temperature:
     gcmd_name: Land Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457
-    names:
-    - Land Surface Temperature
 - Longwave Radiation:
     gcmd_name: Longwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0482
-    names:
-    - Longwave Radiation
 - Shortwave Radiation:
     gcmd_name: Shortwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755
-    names:
-    - Shortwave Radiation
 - Sea Ice Concentration:
     gcmd_name: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
-    names:
-    - Sea Ice Concentration
 - Heat Flux:
     gcmd_name: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368
-    names:
-    - Heat Flux
 - Ice Extent:
     gcmd_name: Ice Extent
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0400
-    names:
-    - Ice Extent
 - Sensible Heat Flux
 - Incoming Solar Radiation:
     gcmd_name: Incoming Solar Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0412
-    names:
-    - Incoming Solar Radiation
 - Ice Cover Maps
 - Night Marine Air Temperature Anomalies Maps
 - Latent Heat Flux

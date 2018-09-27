@@ -4,44 +4,30 @@ phenomena:
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
 - Precipitation:
     gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H334
-    names: Precipitation,EARTH SCIENCE > Atmosphere > Precipitation
 - Windspeed
 - Sea Level Pressure:
     gcmd_name: Sea Level Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
-    names:
-    - Sea Level Pressure
 - Sea Surface Temperature:
     gcmd_name: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
-    names:
-    - Sea Surface Temperature
 - Net Radiation:
     gcmd_name: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
-    names:
-    - Net Radiation
 - Total Cloud Cover
 - Specific Humidity
 - Heat Flux:
     gcmd_name: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368
-    names:
-    - Heat Flux
 - Wind Stress:
     gcmd_name: Wind Stress
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
-    names:
-    - Wind Stress
 - Evaporation:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G237
-    names: Evaporation,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
 - Sensible Heat Flux
 - Latent Heat Flux
 - Net Heat Flux

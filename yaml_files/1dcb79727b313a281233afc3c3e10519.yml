@@ -4,5 +4,3 @@ phenomena:
 - Sea Ice Concentration:
     gcmd_name: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
-    names:
-    - Sea Ice Concentration

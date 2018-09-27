@@ -4,7 +4,5 @@ phenomena:
 - Sea Surface Height:
     gcmd_name: Sea Surface Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0726
-    names:
-    - Sea Surface Height
 - Changes In Global Sea Level
 - Global Sea Level

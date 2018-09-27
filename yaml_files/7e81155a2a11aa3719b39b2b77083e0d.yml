@@ -4,35 +4,24 @@ phenomena:
 - Albedo:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
-    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
 - Frequency
 - Cloud Amount
 - Solar Irradiance:
     gcmd_name: Solar Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
-    names:
-    - Solar Irradiance
 - Net Radiation:
     gcmd_name: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
-    names:
-    - Net Radiation
 - Total Cloud Cover
 - Cloud Forcing:
     gcmd_name: Cloud Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0142
-    names:
-    - Cloud Forcing
 - Shortwave Radiation:
     gcmd_name: Shortwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755
-    names:
-    - Shortwave Radiation
 - Radiative Forcing:
     gcmd_name: Radiative Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0678
-    names:
-    - Radiative Forcing
 - Surface Solar Radiation
 - Surface Thermal Radiation
 - Surface Cloud Forcing
