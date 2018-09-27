@@ -1,0 +1,65 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Vegetation Index:
+    gcmd_name: Vegetation Index
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0916
+    names:
+    - Vegetation Index
+- Vegetation:
+    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
+    names: Vegetation,EARTH SCIENCE > Biosphere > Vegetation
+- Carbon:
+    gcmd_name: EARTH SCIENCE > Agriculture > Soils > Carbon
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G053
+    names: Carbon,EARTH SCIENCE > Agriculture > Soils > Carbon
+- Vegetation Cover:
+    gcmd_name: Vegetation Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0915
+    names:
+    - Vegetation Cover
+- Leaf Characteristics:
+    gcmd_name: Leaf Characteristics
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0469
+    names:
+    - Leaf Characteristics
+- Canopy Characteristics:
+    gcmd_name: Canopy Characteristics
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0109
+    names:
+    - Canopy Characteristics
+- Photosynthetically Active Radiation:
+    gcmd_name: Photosynthetically Active Radiation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0627
+    names:
+    - Photosynthetically Active Radiation
+- Ecological Dynamics:
+    gcmd_name: Ecological Dynamics
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0034
+    names:
+    - Ecological Dynamics
+- Biomass:
+    gcmd_name: EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G328
+    names: Biomass,EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass
+- Chlorophyll:
+    gcmd_name: EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G377
+    names: Chlorophyll,EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
+- Vegetation Structure
+- Forest Composition
+- Photosynthesis:
+    gcmd_name: EARTH SCIENCE > Biosphere > Ecological Dynamics > Photosynthesis
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G353
+    names: Photosynthesis,EARTH SCIENCE > Biosphere > Ecological Dynamics > Photosynthesis
+- Indigenous Vegetation:
+    gcmd_name: Indigenous Vegetation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0415
+    names:
+    - Indigenous Vegetation
+- Plant Characteristics:
+    gcmd_name: Plant Characteristics
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0636
+    names:
+    - Plant Characteristics

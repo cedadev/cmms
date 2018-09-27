@@ -1,0 +1,16 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Albedo:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
+    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+- Land Cover:
+    gcmd_name: Land Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
+    names:
+    - Land Cover
+- Vegetation:
+    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
+    names: Vegetation,EARTH SCIENCE > Biosphere > Vegetation

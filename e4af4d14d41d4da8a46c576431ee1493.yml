@@ -1,0 +1,57 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Nitrogen Compounds:
+    gcmd_name: Nitrogen Compounds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+    names:
+    - Nitrogen Compounds
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- Water Vapor:
+    gcmd_name: Water Vapor
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
+    names:
+    - Water Vapor
+- Nitrogen Dioxide:
+    gcmd_name: Nitrogen Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+    names:
+    - Nitrogen Dioxide
+- Trace Species
+- Trace Gases
+- Nitric Acid:
+    gcmd_name: Nitric Acid
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
+    names:
+    - Nitric Acid
+- Infrared Imagery:
+    gcmd_name: Infrared Imagery
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0420
+    names:
+    - Infrared Imagery
+- Infrared Wavelengths:
+    gcmd_name: Infrared Wavelengths
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
+    names:
+    - Infrared Wavelengths
+- Infrared Radiance:
+    gcmd_name: Infrared Radiance
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0421
+    names:
+    - Infrared Radiance

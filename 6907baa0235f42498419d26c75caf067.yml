@@ -1,0 +1,4 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- storminess

@@ -1,0 +1,166 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Skin Reservoir Content
+- 10 Metre U Wind
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Apparent Surface Humidity
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Relative Vorticity
+- Water Depth:
+    gcmd_name: Water Depth
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0934
+    names:
+    - Water Depth
+- 10 Metre V Wind
+- Soil Temperature Level 4
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Logarithm Of Surface Roughness Length For Heat
+- Specific Humidity
+- Log Surface Pressure
+- Albedo:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
+    names: Albedo,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+- 2 Metre Dew Point Temperature
+- Soil Temperature Level 3
+- Angle Of Sub Grid Scaleorography
+- Temperature
+- Frequency
+- Cloud Amount
+- Slope Of Sub-Grid Scale Orography
+- Skin Temperature:
+    gcmd_name: Skin Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0761
+    names:
+    - Skin Temperature
+- Vertical Wind Motion:
+    gcmd_name: Vertical Wind Motion
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
+    names:
+    - Vertical Wind Motion
+- Precipitation Amount:
+    gcmd_name: Precipitation Amount
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
+    names:
+    - Precipitation Amount
+- Snow Depth:
+    gcmd_name: Snow Depth
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
+    names:
+    - Snow Depth
+- Geopotential (At The Surface, Orography)
+- Soil Temperature Level 2
+- Relative Humidity
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Mean Sea Level Pressure
+- Sea Level Pressure:
+    gcmd_name: Sea Level Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
+    names:
+    - Sea Level Pressure
+- Surface Latent Heat Flux
+- Surface Sensible Heat Flux
+- Latitudinal Component Of Gravity Wave Stress
+- Surface Solar Radiation
+- Top Thermal Radiation
+- Surface Thermal Radiation
+- U Zonal Windspeed
+- Upper Level Winds:
+    gcmd_name: Upper Level Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+    names:
+    - Upper Level Winds
+- Water Content
+- Soil Moisture
+- Vorticity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
+    names: Vorticity,EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+- Ice
+- V-Stress
+- V Meridional Windspeed
+- Surface Temperature Level 1
+- Percentage Of Vegetation
+- U-Stress
+- Soil Wetness Level 4
+- Soil Wetness Level 2
+- Soil Wetness Level 1
+- Wind Shear:
+    gcmd_name: Wind Shear
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0965
+    names:
+    - Wind Shear
+- Top Solar Radiation
+- Soil Temperature:
+    gcmd_name: Soil Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
+    names:
+    - Soil Temperature
+- Heat Flux:
+    gcmd_name: Heat Flux
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368
+    names:
+    - Heat Flux
+- Thermal Properties:
+    gcmd_name: Thermal Properties
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0868
+    names:
+    - Thermal Properties
+- Net Radiation:
+    gcmd_name: Net Radiation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
+    names:
+    - Net Radiation
+- Vertical Velocity
+- Anisotropy Of Sub Grid Scale Orography
+- Surface Roughness:
+    gcmd_name: Surface Roughness
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0851
+    names:
+    - Surface Roughness
+- 2 Metre Temperature
+- Boundary Layer Temperature:
+    gcmd_name: Boundary Layer Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0100
+    names:
+    - Boundary Layer Temperature
+- Convective Precipitation
+- Vegetation Cover:
+    gcmd_name: Vegetation Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0915
+    names:
+    - Vegetation Cover
+- Large Scale Precipitation
+- Wind Stress:
+    gcmd_name: Wind Stress
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
+    names:
+    - Wind Stress
+- Meridional Component Of Gravity Wave Stress
+- Standard Deviation Of Orography
+- Divergence
+- Convergence
+- Sea Mask
+- Land
+- Landforms:
+    gcmd_name: EARTH SCIENCE > Land Surface > Topography > Landforms
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G793
+    names: Landforms,EARTH SCIENCE > Land Surface > Topography > Landforms
+- Total Cloud Cover
+- Soil Wetness Level 3

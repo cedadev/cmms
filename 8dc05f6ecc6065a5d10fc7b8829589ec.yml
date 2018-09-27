@@ -1,0 +1,20 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Soil Temperature:
+    gcmd_name: Soil Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
+    names:
+    - Soil Temperature
+- Soil Temperature Level 3
+- Soil Temperature Level 4
+- Soil Temperature Level 1
+- Soil Temperature Level 2
+- 15 cm Soil Temperature
+- 5 cm Soil Temperature
+- 25 cm Soil Temperature
+- 50 cm Soil Temperature
+- 20 cm Soil Temperature
+- 10 cm Soil Temperature
+- 30 cm Soil Temperature
+- 100 cm Soil Temperature

@@ -1,0 +1,76 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Dew Point Temperature:
+    gcmd_name: Dew Point Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+    names:
+    - Dew Point Temperature
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- Carbon Monoxide:
+    gcmd_name: Carbon Monoxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
+    names:
+    - Carbon Monoxide
+- Carbon And Hydrocarbon Compounds
+- Peroxyacetyl Nitrate (PAN)
+- Trace Species
+- Trace Gases
+- Photolysis Rates:
+    gcmd_name: Photolysis Rates
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0625
+    names:
+    - Photolysis Rates
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+- J(O1D):
+    names: J(O1D),Reaction rate of O1D,,
+- J(NO2):
+    names: J(NO2),Reaction rate of NO2,,
+- Hydrostatic Pressure:
+    gcmd_name: Hydrostatic Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0391
+    names:
+    - Hydrostatic Pressure
+- Deiced Temperature:
+    gcmd_name: Deiced Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0201
+    names:
+    - Deiced Temperature
+- Height From Radar Data
+- Peroxy Radicals
+- Peroxide
+- Volatile Organic Compounds:
+    gcmd_name: Volatile Organic Compounds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0928
+    names:
+    - Volatile Organic Compounds
+- Non-methane Hydrocarbons:
+    gcmd_name: Non-methane Hydrocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0563
+    names:
+    - Non-methane Hydrocarbons

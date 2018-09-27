@@ -1,0 +1,15 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Aerosol Extinction:
+    gcmd_name: Aerosol Extinction
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
+    names:
+    - Aerosol Extinction
+- Temperature
+- Extinction At 1 Micron

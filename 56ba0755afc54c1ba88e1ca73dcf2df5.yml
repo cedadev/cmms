@@ -1,0 +1,8 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Radar Imagery:
+    gcmd_name: Radar Imagery
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0673
+    names:
+    - Radar Imagery

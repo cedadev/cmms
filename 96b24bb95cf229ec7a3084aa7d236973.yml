@@ -1,0 +1,159 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Geopotential Height:
+    gcmd_name: Geopotential Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
+    names:
+    - Geopotential Height
+- Aerosol Backscatter:
+    gcmd_name: Aerosol Backscatter
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0016
+    names:
+    - Aerosol Backscatter
+- Aerosol Particle Properties:
+    gcmd_name: Aerosol Particle Properties
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0019
+    names:
+    - Aerosol Particle Properties
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Nitrous Oxide:
+    gcmd_name: Nitrous Oxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+    names:
+    - Nitrous Oxide
+- Nitrogen Compounds:
+    gcmd_name: Nitrogen Compounds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+    names:
+    - Nitrogen Compounds
+- Nitrogen Oxides:
+    gcmd_name: Nitrogen Oxides
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+    names:
+    - Nitrogen Oxides
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- J(O1D):
+    names: J(O1D),Reaction rate of O1D,,
+- J(ClNO3):
+    names: J(ClNO3),Reaction rate of ClNO3,,
+- J(HOCl):
+    names: J(HOCl),Reaction rate of HOCl,,
+- Water Vapor:
+    gcmd_name: Water Vapor
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
+    names:
+    - Water Vapor
+- J(NO2):
+    names: J(NO2),Reaction rate of NO2,,
+- J(OClO):
+    names: J(OClO),Reation rate of OClO,,
+- ClONO2:
+    names: ClONO2,Chlorine Nitrate,,
+- HF:
+    names: HF,Hydrogen Fluoride,,
+- Chlorine Dioxide:
+    gcmd_name: Chlorine Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0127
+    names:
+    - Chlorine Dioxide
+- Halons And Halogens
+- Nitrogen Dioxide:
+    gcmd_name: Nitrogen Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+    names:
+    - Nitrogen Dioxide
+- J(HNO3):
+    names: J(HNO3),Reaction rate of HNO3,,
+- OCLO Column
+- Chlorine Nitrate:
+    gcmd_name: Chlorine Nitrate
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0129
+    names:
+    - Chlorine Nitrate
+- Carbon And Hydrocarbon Compounds
+- Halocarbons:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+      > Halocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
+    names: Halocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and
+      Halogens > Halocarbons
+- Wind Direction
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Windspeed
+- Trace Species
+- Trace Gases
+- Nitric Acid:
+    gcmd_name: Nitric Acid
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
+    names:
+    - Nitric Acid
+- Bro Coloumn:
+    names: Bro Coloumn,Bromine Column,,
+- Humidity Mixing Ratio
+- CFCl3:
+    names: CFCl3,Trichlorofluoromethane,,
+- Particle Number Concentration
+- CCl4:
+    names: CCl4,Tetrachloromethane,,
+- Photolysis Rates:
+    gcmd_name: Photolysis Rates
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0625
+    names:
+    - Photolysis Rates
+- Potential Temperature:
+    gcmd_name: Potential Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
+    names:
+    - Potential Temperature
+- ClO:
+    names: ClO,Hypochlorite,,
+- HCl:
+    names: HCl,Hydrogen Chloride,,
+- CFC-11:
+    names: CFC-11,Trichlorofluoromethane,,
+- Chlorofluorocarbons:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+      > Chlorofluorocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
+    names: Chlorofluorocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons
+      and Halogens > Chlorofluorocarbons
+- Chlorine Monoxide:
+    gcmd_name: Chlorine Monoxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0128
+    names:
+    - Chlorine Monoxide
+- CFC-113:
+    names: CFC-113,1,1,2-Trichlorotrifluoroethane,,
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+- NOY
+- NO2 Column
+- HNO3 COLUMN:
+    names: HNO3 COLUMN,Nitric Acid Column,,
+- CH3CCl3:
+    names: CH3CCl3,Trichloroethane,,
+- CFC-12:
+    names: CFC-12,Dichlorodifluoromethane,,

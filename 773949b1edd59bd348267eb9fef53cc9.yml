@@ -1,0 +1,9 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- U Zonal Windspeed
+- V Meridional Windspeed
+- Vertical Profile Of Air Temperature
+- Specific Humidity
+- Trajectory Height
+- Trajectory Pressure

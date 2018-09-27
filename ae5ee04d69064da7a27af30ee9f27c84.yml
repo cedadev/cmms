@@ -1,14 +1,16 @@
+splice rules:
+  phenomena: cmms_only
 phenomena:
-- best_name: Ozone
-  gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds >
-    Ozone
-  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-  names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
-    > Ozone
-- best_name: Oxygen Compounds
-- best_name: Ultraviolet Radiation
-  gcmd_name: Ultraviolet Radiation
-  gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0907
-  names:
-  - Ultraviolet Radiation
-- best_name: Total Ozone Column
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Oxygen Compounds
+- Ultraviolet Radiation:
+    gcmd_name: Ultraviolet Radiation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0907
+    names:
+    - Ultraviolet Radiation
+- Total Ozone Column

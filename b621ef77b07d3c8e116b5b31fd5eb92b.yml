@@ -1,0 +1,6 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Mean Surface Air Temperature
+- Maximum Surface Air Temperature
+- Minimum Surface Air Temperature

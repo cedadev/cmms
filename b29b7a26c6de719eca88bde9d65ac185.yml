@@ -1,0 +1,5 @@
+splice rules:
+  phenomena: append_new_only
+phenomena:
+- CH2O:
+    names: CH2O,Methanal,,

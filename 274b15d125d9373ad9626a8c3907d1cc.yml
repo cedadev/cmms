@@ -1,0 +1,135 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Sunshine Amount
+- Direct Solar Irradiation Amount
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Day Of Thunder
+- Mean Sea Level Pressure
+- Soil Temperature:
+    gcmd_name: Soil Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
+    names:
+    - Soil Temperature
+- Dew Point Temperature:
+    gcmd_name: Dew Point Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
+    names:
+    - Dew Point Temperature
+- Atmospheric Pressure Measurements:
+    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+    names:
+    - Atmospheric Pressure Measurements
+- Time Of Maximum Gust
+- Grass Min Temperature
+- Frequency
+- Cloud Amount
+- Lightning:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
+    names: Lightning,EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+- Snow Depth:
+    gcmd_name: Snow Depth
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
+    names:
+    - Snow Depth
+- Snow:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
+    names: Snow,EARTH SCIENCE > Atmosphere > Precipitation > Snow
+- Day Of Gale
+- 50 cm Soil Temperature
+- 20 cm Soil Temperature
+- Mean Hourly Wind Speed
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Maximum Hourly Gust Speed
+- 10 cm Soil Temperature
+- Hourly Rainfall Amount
+- Land Surface Temperature:
+    gcmd_name: Land Surface Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457
+    names:
+    - Land Surface Temperature
+- 30 cm Soil Temperature
+- Day Of Hail
+- Hail:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Hail
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G282
+    names: Hail,EARTH SCIENCE > Atmosphere > Precipitation > Hail
+- Concrete Min Temperature
+- Mean Hourly Wind Direction
+- Sea Level Pressure:
+    gcmd_name: Sea Level Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
+    names:
+    - Sea Level Pressure
+- 100 cm Soil Temperature
+- Cloud Height:
+    gcmd_name: Cloud Height
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0143
+    names:
+    - Cloud Height
+- Hourly Sunshine
+- Duration Of Rain
+- Maximum Hourly Gust Direction
+- Base Of Lowest Cloud
+- 12 Hours Rainfall Amount
+- Wet Bulb Temperature
+- 10 Minute Mean Wind Speed
+- High Cloud Type
+- Cloud Types:
+    gcmd_name: Cloud Types
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
+    names:
+    - Cloud Types
+- Rain:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+    names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- Low Cloud Type
+- Max Dry Bulb Temperature
+- Minimum Temperature
+- Maximum
+- 10 Minute Mean Wind Direction
+- Medium Cloud Type
+- Min Dry Bulb Temperature
+- Dry Bulb Temperature
+- 24 Hour Rainfall
+- Low Cloud Amount
+- Total Cloud Cover
+- Station Level Pressure
+- Snow Lying
+- Snow Cover:
+    gcmd_name: Snow Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
+    names:
+    - Snow Cover
+- Ice
+- Precipitation Amount:
+    gcmd_name: Precipitation Amount
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
+    names:
+    - Precipitation Amount
+- Fresh Snow Depth
+- Day Of Snow
+- Diffuse Solar Irradiation Amount
+- Solar Irradiance:
+    gcmd_name: Solar Irradiance
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
+    names:
+    - Solar Irradiance
+- Global Solar Irradiation Amount
+- 5 cm Soil Temperature
+- Sunshine:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
+    names: Sunshine,EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine

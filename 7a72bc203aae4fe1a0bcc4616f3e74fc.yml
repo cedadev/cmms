@@ -1,0 +1,8 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Visible Imagery:
+    gcmd_name: Visible Imagery
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0925
+    names:
+    - Visible Imagery

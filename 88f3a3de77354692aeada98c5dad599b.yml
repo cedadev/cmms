@@ -1,0 +1,7 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Trajectory Longitude
+- Trajectory Latitude
+- Trajectory Height
+- Trajectory Pressure

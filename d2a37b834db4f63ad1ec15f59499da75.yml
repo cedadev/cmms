@@ -1,0 +1,70 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Humidity:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
+    names: Humidity,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+- Relative Humidity
+- Wind Direction
+- Surface Winds:
+    gcmd_name: Surface Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
+    names:
+    - Surface Winds
+- Windspeed
+- Rain:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
+    names: Rain,EARTH SCIENCE > Atmosphere > Precipitation > Rain
+- Net Radiation:
+    gcmd_name: Net Radiation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
+    names:
+    - Net Radiation
+- Land Cover:
+    gcmd_name: Land Cover
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
+    names:
+    - Land Cover
+- Soil Temperature:
+    gcmd_name: Soil Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
+    names:
+    - Soil Temperature
+- Wet Bulb Temperature
+- Dry Bulb Temperature
+- Precipitation Amount:
+    gcmd_name: Precipitation Amount
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
+    names:
+    - Precipitation Amount
+- Total Radiation
+- Solar Radiation:
+    gcmd_name: Solar Radiation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0812
+    names:
+    - Solar Radiation
+- Evaporation:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G237
+    names: Evaporation,EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
+- Streams
+- Rivers
+- 15 cm Soil Temperature
+- Droplet Size:
+    gcmd_name: Droplet Size
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0229
+    names:
+    - Droplet Size
+- 5 cm Soil Temperature
+- 25 cm Soil Temperature
+- Radar:
+    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Radar
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H420
+    names: Radar,EARTH SCIENCE > Spectral/Engineering > Radar

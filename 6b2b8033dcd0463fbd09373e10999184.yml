@@ -1,0 +1,13 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Brightness Temperature:
+    gcmd_name: Brightness Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0104
+    names:
+    - Brightness Temperature
+- Cloud Top Temperature:
+    gcmd_name: Cloud Top Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
+    names:
+    - Cloud Top Temperature

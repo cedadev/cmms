@@ -1,0 +1,24 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Wind Direction
+- Atmospheric Winds:
+    gcmd_name: Atmospheric Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
+    names:
+    - Atmospheric Winds
+- Windspeed
+- U Zonal Windspeed
+- Upper Level Winds:
+    gcmd_name: Upper Level Winds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
+    names:
+    - Upper Level Winds
+- Vertical Wind Motion:
+    gcmd_name: Vertical Wind Motion
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
+    names:
+    - Vertical Wind Motion
+- V Meridional Windspeed
+- Vertical Windspeed
+- Spectral Width

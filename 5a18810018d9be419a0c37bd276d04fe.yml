@@ -1,6 +1,8 @@
+splice rules:
+  phenomena: cmms_only
 phenomena:
-- best_name: Total Cloud Cover
-- best_name: Cloud Cover
-- best_name: Low Cloud Cover
-- best_name: High Cloud Cover
-- best_name: Medium Cloud Cover
+- Total Cloud Cover
+- Cloud Cover
+- Low Cloud Cover
+- High Cloud Cover
+- Medium Cloud Cover

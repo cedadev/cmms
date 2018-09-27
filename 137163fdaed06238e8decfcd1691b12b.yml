@@ -1,0 +1,57 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Nitrous Oxide:
+    gcmd_name: Nitrous Oxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+    names:
+    - Nitrous Oxide
+- Halons And Halogens
+- Atmospheric Chemistry:
+    gcmd_name: Atmospheric Chemistry
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
+    names:
+    - Atmospheric Chemistry
+- Halocarbons:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+      > Halocarbons
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
+    names: Halocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and
+      Halogens > Halocarbons
+- Trace Species
+- Trace Gases
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+- Carbon Dioxide:
+    gcmd_name: Carbon Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
+    names:
+    - Carbon Dioxide
+- Firn:
+    gcmd_name: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Firn
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G491
+    names: Firn,EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Firn
+- Ice Sheets:
+    gcmd_name: Ice Sheets
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0405
+    names:
+    - Ice Sheets
+- Glaciers:
+    gcmd_name: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Glaciers
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G498
+    names: Glaciers,EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Glaciers
+- Ice Core Records:
+    gcmd_name: Ice Core Records
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0055
+    names:
+    - Ice Core Records
+- Long Lived Halocarbons
+- Isotopes:
+    gcmd_name: EARTH SCIENCE > Cryosphere > Sea Ice > Isotopes
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G512
+    names: Isotopes,EARTH SCIENCE > Cryosphere > Sea Ice > Isotopes
+- Alkyl Nitrates

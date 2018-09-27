@@ -1,0 +1,8 @@
+splice rules:
+  phenomena: append_new_only
+phenomena:
+- Atmospheric Pressure:
+    gcmd_name: Atmospheric Pressure
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0023
+    names:
+    - Atmospheric Pressure

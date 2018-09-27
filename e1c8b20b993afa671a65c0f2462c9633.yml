@@ -1,0 +1,52 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Nitrous Oxide:
+    gcmd_name: Nitrous Oxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
+    names:
+    - Nitrous Oxide
+- Nitrogen Compounds:
+    gcmd_name: Nitrogen Compounds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
+    names:
+    - Nitrogen Compounds
+- Nitrogen Oxides:
+    gcmd_name: Nitrogen Oxides
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
+    names:
+    - Nitrogen Oxides
+- Ozone:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
+    names: Ozone,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+      > Ozone
+- Atmospheric Pressure Measurements:
+    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
+    names:
+    - Atmospheric Pressure Measurements
+- Nitrogen Dioxide:
+    gcmd_name: Nitrogen Dioxide
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
+    names:
+    - Nitrogen Dioxide
+- Clouds:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
+    names: Clouds,EARTH SCIENCE > Atmosphere > Clouds
+- Trace Gases
+- HCl:
+    names: HCl,Hydrogen Chloride,,
+- Methane:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
+    names: Methane,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+      Compounds > Methane
