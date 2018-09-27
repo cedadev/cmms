@@ -1,9 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Sea Surface Temperature:
-    gcmd_name: Sea Surface Temperature
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
-    names:
-    - Sea Surface Temperature
-- Sea Surface Temperature Maps

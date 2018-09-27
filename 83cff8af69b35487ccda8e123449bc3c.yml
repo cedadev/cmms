@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Station Height:
-    gcmd_name: Station Height
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0828
-    names:
-    - Station Height

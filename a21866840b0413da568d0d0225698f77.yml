@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Pressure Thickness:
-    gcmd_name: Pressure Thickness
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0662
-    names:
-    - Pressure Thickness

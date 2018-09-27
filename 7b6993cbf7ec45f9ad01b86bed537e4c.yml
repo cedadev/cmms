@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Sea Level Pressure:
-    gcmd_name: Sea Level Pressure
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
-    names:
-    - Sea Level Pressure

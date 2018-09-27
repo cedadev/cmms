@@ -1,9 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Water Vapor:
-    gcmd_name: Water Vapor
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
-    names:
-    - Water Vapor
-- Ozone Column

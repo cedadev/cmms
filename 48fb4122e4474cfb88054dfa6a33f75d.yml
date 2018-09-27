@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Snow Depth:
-    gcmd_name: Snow Depth
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
-    names:
-    - Snow Depth

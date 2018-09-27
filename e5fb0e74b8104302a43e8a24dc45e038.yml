@@ -1,7 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Biomass:
-    gcmd_name: EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G328
-    names: Biomass,EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass

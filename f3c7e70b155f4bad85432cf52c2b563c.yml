@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Incoming Solar Radiation:
-    gcmd_name: Incoming Solar Radiation
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0412
-    names:
-    - Incoming Solar Radiation

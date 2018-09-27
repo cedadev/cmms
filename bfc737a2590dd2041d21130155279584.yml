@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Dew Point Temperature:
-    gcmd_name: Dew Point Temperature
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
-    names:
-    - Dew Point Temperature

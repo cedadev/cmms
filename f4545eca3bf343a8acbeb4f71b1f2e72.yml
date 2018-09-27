@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Height
-- Radiance:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Radiance
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G951
-    names: Radiance,EARTH SCIENCE > Oceans > Ocean Optics > Radiance

@@ -1,5 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- CH4:
-    names: CH4,Methane,,

@@ -1,9 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Halocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
-      > Halocarbons
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
-    names: Halocarbons,EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and
-      Halogens > Halocarbons

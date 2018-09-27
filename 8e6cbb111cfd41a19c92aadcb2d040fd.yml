@@ -1,7 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Visibility:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Air Quality > Visibility
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G121
-    names: Visibility,EARTH SCIENCE > Atmosphere > Air Quality > Visibility

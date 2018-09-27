@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- Carbon:
-    gcmd_name: EARTH SCIENCE > Agriculture > Soils > Carbon
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G053
-    names: Carbon,EARTH SCIENCE > Agriculture > Soils > Carbon
-- Rivers

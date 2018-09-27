@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Cloud Top Temperature:
-    gcmd_name: Cloud Top Temperature
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
-    names:
-    - Cloud Top Temperature

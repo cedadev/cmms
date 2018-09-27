@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Sulfur Dioxide:
-    gcmd_name: Sulfur Dioxide
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0843
-    names:
-    - Sulfur Dioxide

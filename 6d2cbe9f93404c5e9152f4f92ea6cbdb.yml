@@ -1,5 +1,0 @@
-splice rules:
-  phenomena: cmms_only
-phenomena:
-- CO2:
-    names: CO2,Carbon Dioxide,,

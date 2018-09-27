@@ -1,8 +1,0 @@
-splice rules:
-  phenomena: append_new_only
-phenomena:
-- Ocean Temperature:
-    gcmd_name: Ocean Temperature
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0079
-    names:
-    - Ocean Temperature
