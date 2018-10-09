@@ -1,0 +1,7 @@
+
+# w-e is within -180 to 180 degrees lon
+bbox:
+    north: 51.07
+    east: 0.04
+    west: -4.1
+    south: 52.42

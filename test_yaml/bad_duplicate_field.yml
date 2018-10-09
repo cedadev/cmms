@@ -7,4 +7,5 @@
 # from the equivalent pollable metadata service (e.g. fbi, securityDB)
 
 # one of: public|registered|restricted
-accessType: open
+accessType: restricted
+accessType: public
