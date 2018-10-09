@@ -1,0 +1,10 @@
+phenomena
+- Air Temperature:
+    gcmd_name: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Vertical Profile Of Air Temperature
+- Aerosols:
+    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
