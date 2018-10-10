@@ -1,0 +1,6 @@
+splice rules:
+  lunch: cmms_only
+  
+lunch:
+- cheese
+- spam
