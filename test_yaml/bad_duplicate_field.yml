@@ -9,3 +9,7 @@
 # one of: public|registered|restricted
 accessType: restricted
 accessType: public
+
+n_files: 200
+
+size: 2
