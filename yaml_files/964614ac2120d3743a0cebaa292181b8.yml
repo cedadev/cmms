@@ -1,6 +1,9 @@
 splice rules:
-  phenomena: cmms_only
+  phenomena: append_new_only
 phenomena:
 - Turbulence:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Turbulence
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G251
+- signal to noise ratio of beam 3 (the vertical beam from the central panel):
+    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Cheese
+    
