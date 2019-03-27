@@ -1,5 +1,5 @@
 splice rules:
-  phenomena: append_new_only
+  phenomena: cmms_only
 phenomena:
 - Turbulence:
     gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Turbulence
