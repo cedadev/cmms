@@ -2,8 +2,6 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Sunshine Amount
-- Cheese
-- Wine
 - Mean Near-Surface Air Temperature
 - 10 Metre U Wind
 - 10 Metre V Wind
