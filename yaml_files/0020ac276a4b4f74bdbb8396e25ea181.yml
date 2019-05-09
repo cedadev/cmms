@@ -1,7 +1,7 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
-- test
+- test again
 - Air Temperature:
     gcmd_name: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
