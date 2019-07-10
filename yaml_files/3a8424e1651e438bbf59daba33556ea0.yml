@@ -2,26 +2,26 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Halons And Halogens
 - Carbon And Hydrocarbon Compounds
 - Chlorine Monoxide:
-    gcmd_name: Chlorine Monoxide
+    gcmd_keyword: Chlorine Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0128
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - Sulfur Dioxide:
-    gcmd_name: Sulfur Dioxide
+    gcmd_keyword: Sulfur Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0843
 - Sulfur Compounds

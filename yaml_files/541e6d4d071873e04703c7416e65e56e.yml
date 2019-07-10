@@ -2,24 +2,24 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Brightness Temperature:
-    gcmd_name: Brightness Temperature
+    gcmd_keyword: Brightness Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0104
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Melt
 - Ice Growth
 - Ice Temperature:
-    gcmd_name: Ice Temperature
+    gcmd_keyword: Ice Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0406
 - Geostrophic Drag Co-Efficient
 - Surface (Skin) Temperature
 - Boundary Layer Stratification Parameter
 - Atmospheric Stability:
-    gcmd_name: Atmospheric Stability
+    gcmd_keyword: Atmospheric Stability
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0068
 - Albedo:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
 - Turning Angle
 - Surface Broadband Albedo
@@ -27,48 +27,48 @@ phenomena:
 - Solar Zenith Angle
 - Total Effective Cloud Fraction
 - Sea Ice Motion:
-    gcmd_name: Sea Ice Motion
+    gcmd_keyword: Sea Ice Motion
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0721
 - Ice Velocity:
-    gcmd_name: Ice Velocity
+    gcmd_keyword: Ice Velocity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0408
 - Frequency
 - Cloud Amount
 - Skin Temperature:
-    gcmd_name: Skin Temperature
+    gcmd_keyword: Skin Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0761
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Cloud Fraction
 - Cloud Top Pressure:
-    gcmd_name: Cloud Top Pressure
+    gcmd_keyword: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
 - Sea Ice Concentration:
-    gcmd_name: Sea Ice Concentration
+    gcmd_keyword: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Microwave:
-    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Microwave
+    gcmd_keyword: EARTH SCIENCE > Spectral/Engineering > Microwave
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H418
 - Cloud Top Temperature:
-    gcmd_name: Cloud Top Temperature
+    gcmd_keyword: Cloud Top Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
 - Precipitable Water:
-    gcmd_name: Precipitable Water
+    gcmd_keyword: Precipitable Water
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0655
 - Emissivity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G203
 - Ice Extent:
-    gcmd_name: Ice Extent
+    gcmd_keyword: Ice Extent
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0400
 - Ice
 - Ice Types:
-    gcmd_name: Ice Types
+    gcmd_keyword: Ice Types
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0407
 - Solar Irradiance:
-    gcmd_name: Solar Irradiance
+    gcmd_keyword: Solar Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809

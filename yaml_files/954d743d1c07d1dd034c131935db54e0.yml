@@ -2,28 +2,28 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Snow Depth:
-    gcmd_name: Snow Depth
+    gcmd_keyword: Snow Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - 24 Hour Rainfall
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Day Of Thunder
 - Lightning:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
 - Snow Lying
 - Snow Cover:
-    gcmd_name: Snow Cover
+    gcmd_keyword: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
 - Ice
 - Duration Of Rain
 - Fresh Snow Depth
 - Day Of Snow
 - Sunshine:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
 - Sunshine Amount

@@ -2,44 +2,44 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Nitrous Oxide:
-    gcmd_name: Nitrous Oxide
+    gcmd_keyword: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Halons And Halogens
 - Nitrogen Dioxide:
-    gcmd_name: Nitrogen Dioxide
+    gcmd_keyword: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
 - Carbon And Hydrocarbon Compounds
 - Trace Species
 - Trace Gases
 - Nitric Acid:
-    gcmd_name: Nitric Acid
+    gcmd_keyword: Nitric Acid
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
 - CFC-11:
     alt_names:
     - Trichlorofluoromethane
 - Chlorofluorocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Chlorofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - CFC-12:
@@ -52,5 +52,5 @@ phenomena:
     alt_names:
     - Dinitrogen
 - Particulate Matter:
-    gcmd_name: Particulate Matter
+    gcmd_keyword: Particulate Matter
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0612

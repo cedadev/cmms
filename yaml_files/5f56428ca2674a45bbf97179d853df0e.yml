@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Carbon Dioxide:
-    gcmd_name: Carbon Dioxide
+    gcmd_keyword: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111

@@ -2,9 +2,9 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Precipitation:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H334
 - Soils:
-    gcmd_name: EARTH SCIENCE > Agriculture > Soils
+    gcmd_keyword: EARTH SCIENCE > Agriculture > Soils
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H315
 - Rivers

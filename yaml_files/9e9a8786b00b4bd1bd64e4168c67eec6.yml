@@ -2,6 +2,6 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Vorticity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
 - Angular Momentum

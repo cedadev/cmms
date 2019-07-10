@@ -2,5 +2,5 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Aerosol Backscatter:
-    gcmd_name: Aerosol Backscatter
+    gcmd_keyword: Aerosol Backscatter
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0016

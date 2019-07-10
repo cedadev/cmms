@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Cloud Condensation Nuclei:
-    gcmd_name: Cloud Condensation Nuclei
+    gcmd_keyword: Cloud Condensation Nuclei
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0140

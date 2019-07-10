@@ -2,26 +2,26 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Halons And Halogens
 - Nitrogen Dioxide:
-    gcmd_name: Nitrogen Dioxide
+    gcmd_keyword: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
 - Atmospheric Chemistry:
-    gcmd_name: Atmospheric Chemistry
+    gcmd_keyword: Atmospheric Chemistry
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
 - Atmospheric Water Vapor:
-    gcmd_name: Atmospheric Water Vapor
+    gcmd_keyword: Atmospheric Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0026
 - Aerosols:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Aerosols
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
 - Bromine Monoxide:
-    gcmd_name: Bromine Monoxide
+    gcmd_keyword: Bromine Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0105

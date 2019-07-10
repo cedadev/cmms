@@ -2,6 +2,6 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138

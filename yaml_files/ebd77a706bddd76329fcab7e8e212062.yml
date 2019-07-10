@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Land Temperature:
-    gcmd_name: Land Temperature
+    gcmd_keyword: Land Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0060

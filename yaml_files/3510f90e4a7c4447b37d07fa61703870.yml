@@ -2,8 +2,8 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Sea Surface Temperature:
-    gcmd_name: Sea Surface Temperature
+    gcmd_keyword: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
 - Land Surface Temperature:
-    gcmd_name: Land Surface Temperature
+    gcmd_keyword: Land Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457

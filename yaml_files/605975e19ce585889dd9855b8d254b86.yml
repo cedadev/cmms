@@ -2,24 +2,24 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Oxygen Compounds
 - Halons And Halogens
 - Trace Species
 - Trace Gases
 - Chlorofluorocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Chlorofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
 - Hydrofluorocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Hydrofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G149
 - Nitrogen:
-    gcmd_name: EARTH SCIENCE > Agriculture > Soils > Nitrogen
+    gcmd_keyword: EARTH SCIENCE > Agriculture > Soils > Nitrogen
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G064
 - Oxygen:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Oxygen
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G163

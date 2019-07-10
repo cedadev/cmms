@@ -3,30 +3,30 @@ splice rules:
 phenomena:
 - Ice Depth
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Height
 - Geopotential Height:
-    gcmd_name: Geopotential Height
+    gcmd_keyword: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
 - Ice Growth
 - Ocean Currents:
-    gcmd_name: Ocean Currents
+    gcmd_keyword: Ocean Currents
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0574
 - Ocean Mixed Layer:
-    gcmd_name: Ocean Mixed Layer
+    gcmd_keyword: Ocean Mixed Layer
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0575
 - Eddies:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Circulation > Eddies
+    gcmd_keyword: EARTH SCIENCE > Oceans > Ocean Circulation > Eddies
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G916
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Salinity:
-    gcmd_name: EARTH SCIENCE > Cryosphere > Sea Ice > Salinity
+    gcmd_keyword: EARTH SCIENCE > Cryosphere > Sea Ice > Salinity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G517
 - Density:
-    gcmd_name: EARTH SCIENCE > Oceans > Salinity/Density > Density
+    gcmd_keyword: EARTH SCIENCE > Oceans > Salinity/Density > Density
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G990
 - Melt
 - Temperature
@@ -39,36 +39,36 @@ phenomena:
 - Mean Ice
 - Cloud Liquid Water
 - Sea Ice Concentration:
-    gcmd_name: Sea Ice Concentration
+    gcmd_keyword: Sea Ice Concentration
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0719
 - U Zonal Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Water Content
 - Soil Moisture
 - Potential Vorticity
 - Vorticity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
 - V Meridional Windspeed
 - Potential Temperature:
-    gcmd_name: Potential Temperature
+    gcmd_keyword: Potential Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
 - Soil Wetness Level 4
 - Soil Wetness Level 2
 - Soil Wetness Level 1
 - Soil Wetness Level 3
 - Wind Stress:
-    gcmd_name: Wind Stress
+    gcmd_keyword: Wind Stress
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
 - Meridional Component Of Gravity Wave Stress
 - Snow Cover:
-    gcmd_name: Snow Cover
+    gcmd_keyword: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
 - Ice
 - Divergence
 - Convergence
 - Sea Surface Temperature:
-    gcmd_name: Sea Surface Temperature
+    gcmd_keyword: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728

@@ -2,8 +2,8 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Altitude:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Altitude
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Altitude
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H318
 - Radiance:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Radiance
+    gcmd_keyword: EARTH SCIENCE > Oceans > Ocean Optics > Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G951

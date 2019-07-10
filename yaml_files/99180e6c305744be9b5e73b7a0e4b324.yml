@@ -2,5 +2,5 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Ocean Color:
-    gcmd_name: Ocean Color
+    gcmd_keyword: Ocean Color
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0571

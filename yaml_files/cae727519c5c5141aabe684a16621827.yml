@@ -2,31 +2,31 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Barometric Altitude:
-    gcmd_name: Barometric Altitude
+    gcmd_keyword: Barometric Altitude
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Aerosol Extinction:
-    gcmd_name: Aerosol Extinction
+    gcmd_keyword: Aerosol Extinction
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Temperature
 - Nitrogen Dioxide:
-    gcmd_name: Nitrogen Dioxide
+    gcmd_keyword: Nitrogen Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0559
 - Carbon And Hydrocarbon Compounds
 - Trace Species
@@ -35,7 +35,7 @@ phenomena:
     alt_names:
     - Hydrogen Chloride
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - 'NO':

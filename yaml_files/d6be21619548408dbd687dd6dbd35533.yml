@@ -2,59 +2,59 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Brightness Temperature:
-    gcmd_name: Brightness Temperature
+    gcmd_keyword: Brightness Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0104
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Aerosol Particle Properties:
-    gcmd_name: Aerosol Particle Properties
+    gcmd_keyword: Aerosol Particle Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0019
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Atmospheric Pressure Measurements:
-    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
 - Carbon Monoxide:
-    gcmd_name: Carbon Monoxide
+    gcmd_keyword: Carbon Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
 - Carbon And Hydrocarbon Compounds
 - Wind Direction
 - Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Humidity Mixing Ratio
 - Vertical Wind Motion:
-    gcmd_name: Vertical Wind Motion
+    gcmd_keyword: Vertical Wind Motion
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
 - Particle Number Concentration
 - NOY
 - Vertical Velocity
 - Vertical Gradient Of Temperature
 - Cloud Condensation Nuclei:
-    gcmd_name: Cloud Condensation Nuclei
+    gcmd_keyword: Cloud Condensation Nuclei
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0140
 - P-32:
     alt_names:
     - Particulte Matter 32 microns
 - Trace Metals:
-    gcmd_name: Trace Metals
+    gcmd_keyword: Trace Metals
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0888
 - Trace Elements:
-    gcmd_name: Trace Elements
+    gcmd_keyword: Trace Elements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0885
 - Be-7
 - Radon:

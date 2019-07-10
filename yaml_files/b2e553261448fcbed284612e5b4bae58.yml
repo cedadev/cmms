@@ -2,44 +2,44 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Atmospheric Radiation:
-    gcmd_name: Atmospheric Radiation
+    gcmd_keyword: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
 - Surface Radiative Properties:
-    gcmd_name: Surface Radiative Properties
+    gcmd_keyword: Surface Radiative Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0103
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Sea Surface Temperature:
-    gcmd_name: Sea Surface Temperature
+    gcmd_keyword: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
 - Ocean Temperature:
-    gcmd_name: Ocean Temperature
+    gcmd_keyword: Ocean Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0079
 - Ice
 - Land Cover:
-    gcmd_name: Land Cover
+    gcmd_keyword: Land Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
 - Vegetation:
-    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
 - Infrared Imagery:
-    gcmd_name: Infrared Imagery
+    gcmd_keyword: Infrared Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0420
 - Infrared Wavelengths:
-    gcmd_name: Infrared Wavelengths
+    gcmd_keyword: Infrared Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
 - Engineering
 - Visible Wavelengths:
-    gcmd_name: Visible Wavelengths
+    gcmd_keyword: Visible Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0112
 - Land Use
 - Infrared Radiance:
-    gcmd_name: Infrared Radiance
+    gcmd_keyword: Infrared Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0421
 - Visible Radiance:
-    gcmd_name: Visible Radiance
+    gcmd_keyword: Visible Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0926

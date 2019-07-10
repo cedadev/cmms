@@ -2,20 +2,20 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Height
 - Geopotential Height:
-    gcmd_name: Geopotential Height
+    gcmd_keyword: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Relative Humidity
 - Wind Direction
 - Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Humidity Mixing Ratio
 - Height From Sonde Data

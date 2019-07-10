@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Temperature Anomalies:
-    gcmd_name: Temperature Anomalies
+    gcmd_keyword: Temperature Anomalies
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0861

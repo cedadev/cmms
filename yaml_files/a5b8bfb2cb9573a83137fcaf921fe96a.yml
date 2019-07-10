@@ -3,8 +3,8 @@ splice rules:
 phenomena:
 - Engineering
 - Radar:
-    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Radar
+    gcmd_keyword: EARTH SCIENCE > Spectral/Engineering > Radar
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H420
 - Radar Imagery:
-    gcmd_name: Radar Imagery
+    gcmd_keyword: Radar Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0673

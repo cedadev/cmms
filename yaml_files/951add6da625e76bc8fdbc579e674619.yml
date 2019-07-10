@@ -2,41 +2,41 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Height
 - Geopotential Height:
-    gcmd_name: Geopotential Height
+    gcmd_keyword: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
 - Trace Metals:
-    gcmd_name: Trace Metals
+    gcmd_keyword: Trace Metals
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0888
 - Trace Elements:
-    gcmd_name: Trace Elements
+    gcmd_keyword: Trace Elements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0885
 - F:
     alt_names:
     - Fluorine
 - C2F3Cl3
 - Dew Point Temperature:
-    gcmd_name: Dew Point Temperature
+    gcmd_keyword: Dew Point Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Aerosol Extinction:
-    gcmd_name: Aerosol Extinction
+    gcmd_keyword: Aerosol Extinction
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0017
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Temperature
 - HF:
@@ -50,29 +50,29 @@ phenomena:
     alt_names:
     - Hypochlorite
 - Carbon Monoxide:
-    gcmd_name: Carbon Monoxide
+    gcmd_keyword: Carbon Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
 - Carbon And Hydrocarbon Compounds
 - Halocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Halocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
 - Trace Species
 - Trace Gases
 - NOX
 - Nitric Acid:
-    gcmd_name: Nitric Acid
+    gcmd_keyword: Nitric Acid
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0554
 - U Zonal Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - CFCl3:
     alt_names:
     - Trichlorofluoromethane
 - Potential Vorticity
 - Vorticity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
 - Cl:
     alt_names:
@@ -81,18 +81,18 @@ phenomena:
     alt_names:
     - Hydrogen Chloride
 - Chlorofluorocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Chlorofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
 - Chlorine Monoxide:
-    gcmd_name: Chlorine Monoxide
+    gcmd_keyword: Chlorine Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0128
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - Carbon Dioxide:
-    gcmd_name: Carbon Dioxide
+    gcmd_keyword: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
 - NOY
 - Bro:

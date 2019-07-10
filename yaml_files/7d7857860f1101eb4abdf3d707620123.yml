@@ -2,8 +2,8 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Longwave Radiation:
-    gcmd_name: Longwave Radiation
+    gcmd_keyword: Longwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0482
 - Shortwave Radiation:
-    gcmd_name: Shortwave Radiation
+    gcmd_keyword: Shortwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755

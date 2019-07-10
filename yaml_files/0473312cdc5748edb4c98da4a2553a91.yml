@@ -2,78 +2,78 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Albedo:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
 - Atmospheric Radiation:
-    gcmd_name: Atmospheric Radiation
+    gcmd_keyword: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Atmospheric Water Vapor:
-    gcmd_name: Atmospheric Water Vapor
+    gcmd_keyword: Atmospheric Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0026
 - Cloud Ceiling:
-    gcmd_name: Cloud Ceiling
+    gcmd_keyword: Cloud Ceiling
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0139
 - Reflectance:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
 - Cloud Top Pressure:
-    gcmd_name: Cloud Top Pressure
+    gcmd_keyword: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
 - Thickness
 - Cloud Optical Depth
 - Vegetation Index:
-    gcmd_name: Vegetation Index
+    gcmd_keyword: Vegetation Index
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0916
 - Vegetation:
-    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
 - Water Chemistry
 - Water Quality:
-    gcmd_name: Water Quality
+    gcmd_keyword: Water Quality
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0114
 - Irradiance:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Irradiance
+    gcmd_keyword: EARTH SCIENCE > Oceans > Ocean Optics > Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G947
 - Optical Depth:
-    gcmd_name: Optical Depth
+    gcmd_keyword: Optical Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0582
 - Ocean Chemistry:
-    gcmd_name: Ocean Chemistry
+    gcmd_keyword: Ocean Chemistry
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0074
 - Photosynthetically Active Radiation:
-    gcmd_name: Photosynthetically Active Radiation
+    gcmd_keyword: Photosynthetically Active Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0627
 - Chlorophyll:
-    gcmd_name: EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G377
 - Aerosols:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Aerosols
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
 - Aerosol Optical Depth
 - Ocean Optics:
-    gcmd_name: Ocean Optics
+    gcmd_keyword: Ocean Optics
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0077
 - Suspended Solids:
-    gcmd_name: Suspended Solids
+    gcmd_keyword: Suspended Solids
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0855
 - Marine Sediments:
-    gcmd_name: Marine Sediments
+    gcmd_keyword: Marine Sediments
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0066
 - Gelbstoff:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Gelbstoff
+    gcmd_keyword: EARTH SCIENCE > Oceans > Ocean Optics > Gelbstoff
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G946
 - Ocean Color:
-    gcmd_name: Ocean Color
+    gcmd_keyword: Ocean Color
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0571
 - Radiance:
-    gcmd_name: EARTH SCIENCE > Oceans > Ocean Optics > Radiance
+    gcmd_keyword: EARTH SCIENCE > Oceans > Ocean Optics > Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G951
 - Water-leaving Radiance:
-    gcmd_name: Water-leaving Radiance
+    gcmd_keyword: Water-leaving Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0947

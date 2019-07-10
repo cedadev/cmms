@@ -20,13 +20,13 @@ splice rules:
 
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
     names:
     - Air Temperature
 - Vertical Profile Of Air Temperature
 - Aerosols:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Aerosols
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
 
 # dates are in yyyy-mm-dd hh:mm:ss format

@@ -3,7 +3,7 @@ splice rules:
 phenomena:
 - 24 Hour Rainfall
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Duration Of Rain
 - 12 Hours Rainfall Amount

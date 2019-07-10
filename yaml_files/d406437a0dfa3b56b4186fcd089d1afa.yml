@@ -3,15 +3,15 @@ splice rules:
 phenomena:
 - Wind Direction
 - Atmospheric Winds:
-    gcmd_name: Atmospheric Winds
+    gcmd_keyword: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
 - Windspeed
 - U Zonal Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Vertical Wind Motion:
-    gcmd_name: Vertical Wind Motion
+    gcmd_keyword: Vertical Wind Motion
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
 - V Meridional Windspeed
 - Vertical Windspeed

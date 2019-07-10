@@ -2,29 +2,29 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Snow Depth:
-    gcmd_name: Snow Depth
+    gcmd_keyword: Snow Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Wind Direction
 - Surface Winds:
-    gcmd_name: Surface Winds
+    gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Atmospheric Winds:
-    gcmd_name: Atmospheric Winds
+    gcmd_keyword: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
 - Windspeed
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Lightning:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
 - Ice
 - Hourly Sunshine
 - Sunshine:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
 - Sunshine Amount
 - 10 Minute Mean Wind Speed

@@ -3,7 +3,7 @@ splice rules:
 phenomena:
 - Mean Sea Level Pressure
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Mean Surface Air Temperature
 - Maximum Surface Air Temperature
@@ -11,26 +11,26 @@ phenomena:
 - Relative Humidity
 - Hours Of Sunshine
 - Water Vapor:
-    gcmd_name: Water Vapor
+    gcmd_keyword: Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0943
 - Temperature
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Windspeed
 - Atmospheric Temperature:
-    gcmd_name: Atmospheric Temperature
+    gcmd_keyword: Atmospheric Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
 - Cloud Cover
 - Frost:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G177
 - Vapour Pressure
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Snow Lying
 - Day Of Snow
 - Sunshine:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217

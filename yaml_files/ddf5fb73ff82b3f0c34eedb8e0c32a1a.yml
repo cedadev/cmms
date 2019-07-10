@@ -2,21 +2,21 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Infrared Imagery:
-    gcmd_name: Infrared Imagery
+    gcmd_keyword: Infrared Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0420
 - Infrared Wavelengths:
-    gcmd_name: Infrared Wavelengths
+    gcmd_keyword: Infrared Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
 - Engineering
 - Microwave Imagery:
-    gcmd_name: Microwave Imagery
+    gcmd_keyword: Microwave Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0527
 - Microwave:
-    gcmd_name: EARTH SCIENCE > Spectral/Engineering > Microwave
+    gcmd_keyword: EARTH SCIENCE > Spectral/Engineering > Microwave
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H418
 - Visible Imagery:
-    gcmd_name: Visible Imagery
+    gcmd_keyword: Visible Imagery
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0925
 - Visible Wavelengths:
-    gcmd_name: Visible Wavelengths
+    gcmd_keyword: Visible Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0112

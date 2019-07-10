@@ -2,32 +2,32 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Surface Air Temperature:
-    gcmd_name: Surface Air Temperature
+    gcmd_keyword: Surface Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0848
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Atmospheric Pressure Measurements:
-    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
 - Frequency
 - Cloud Amount
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Cloud Top Temperature:
-    gcmd_name: Cloud Top Temperature
+    gcmd_keyword: Cloud Top Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
 - Reflectance:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
 - Snow Cover:
-    gcmd_name: Snow Cover
+    gcmd_keyword: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
 - Ice
 - Temperature At 900 mb
@@ -43,7 +43,7 @@ phenomena:
 - Stratosphere Temperature At 15 mb
 - Mean TS For IR-Clear Pixels
 - Land Surface Temperature:
-    gcmd_name: Land Surface Temperature
+    gcmd_keyword: Land Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457
 - Sigma-Tau For IR-Cloudy Pixels
 - Mean For Cloud Type 5 = Stratocumulus, Ice
@@ -55,10 +55,10 @@ phenomena:
 - Mean For Cloud Type 13 = Cirrus
 - Precipitable Water For 560 - 440 mb
 - Cloud Precipitable Water:
-    gcmd_name: Cloud Precipitable Water
+    gcmd_keyword: Cloud Precipitable Water
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0147
 - Cloud Top Pressure:
-    gcmd_name: Cloud Top Pressure
+    gcmd_keyword: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
 - IR-Marginally Cloudy Pixels (Vis-Adjusted)
 - Mean For Vis
@@ -69,7 +69,7 @@ phenomena:
 - Mean For IR-Cloudy Pixels 180 = PC <= 310 mb
 - Ice Cover (Percent)
 - Surface Pressure:
-    gcmd_name: Surface Pressure
+    gcmd_keyword: Surface Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0850
 - Mean For Cloud Type 12 = Nimbostratus, Ice
 - Precipitable Water For 800 - 680 mb
@@ -99,7 +99,7 @@ phenomena:
 - Mean For IR-Cloudy Pixels 560 = PC <= 680 mb
 - Mean Irradiance For Vis
 - Net Radiation:
-    gcmd_name: Net Radiation
+    gcmd_keyword: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
 - Mean Irradiance For IR-Cloudy Pixels
 - Mean Vis Radiance For Vis

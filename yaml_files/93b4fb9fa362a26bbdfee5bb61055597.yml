@@ -4,58 +4,58 @@ phenomena:
 - Sunshine Amount
 - Direct Solar Irradiation Amount
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Day Of Thunder
 - Mean Sea Level Pressure
 - Soil Temperature:
-    gcmd_name: Soil Temperature
+    gcmd_keyword: Soil Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
 - Dew Point Temperature:
-    gcmd_name: Dew Point Temperature
+    gcmd_keyword: Dew Point Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
 - Atmospheric Pressure Measurements:
-    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
 - Time Of Maximum Gust
 - Grass Min Temperature
 - Frequency
 - Cloud Amount
 - Lightning:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
 - Snow Depth:
-    gcmd_name: Snow Depth
+    gcmd_keyword: Snow Depth
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0768
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Day Of Gale
 - 50 cm Soil Temperature
 - 20 cm Soil Temperature
 - Mean Hourly Wind Speed
 - Surface Winds:
-    gcmd_name: Surface Winds
+    gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Maximum Hourly Gust Speed
 - 10 cm Soil Temperature
 - Hourly Rainfall Amount
 - Land Surface Temperature:
-    gcmd_name: Land Surface Temperature
+    gcmd_keyword: Land Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457
 - 30 cm Soil Temperature
 - Day Of Hail
 - Hail:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Hail
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Hail
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G282
 - Concrete Min Temperature
 - Mean Hourly Wind Direction
 - Sea Level Pressure:
-    gcmd_name: Sea Level Pressure
+    gcmd_keyword: Sea Level Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
 - 100 cm Soil Temperature
 - Cloud Height:
-    gcmd_name: Cloud Height
+    gcmd_keyword: Cloud Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0143
 - Hourly Sunshine
 - Duration Of Rain
@@ -66,10 +66,10 @@ phenomena:
 - 10 Minute Mean Wind Speed
 - High Cloud Type
 - Cloud Types:
-    gcmd_name: Cloud Types
+    gcmd_keyword: Cloud Types
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Low Cloud Type
 - Max Dry Bulb Temperature
@@ -85,20 +85,20 @@ phenomena:
 - Station Level Pressure
 - Snow Lying
 - Snow Cover:
-    gcmd_name: Snow Cover
+    gcmd_keyword: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
 - Ice
 - Precipitation Amount:
-    gcmd_name: Precipitation Amount
+    gcmd_keyword: Precipitation Amount
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
 - Fresh Snow Depth
 - Day Of Snow
 - Diffuse Solar Irradiation Amount
 - Solar Irradiance:
-    gcmd_name: Solar Irradiance
+    gcmd_keyword: Solar Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
 - Global Solar Irradiation Amount
 - 5 cm Soil Temperature
 - Sunshine:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217

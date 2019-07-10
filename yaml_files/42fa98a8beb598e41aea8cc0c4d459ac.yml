@@ -3,5 +3,5 @@ splice rules:
 phenomena:
 - Mean Sea Level Pressure
 - Sea Level Pressure:
-    gcmd_name: Sea Level Pressure
+    gcmd_keyword: Sea Level Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722

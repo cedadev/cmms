@@ -2,27 +2,27 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Snow:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Snow
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
 - Snow Cover:
-    gcmd_name: Snow Cover
+    gcmd_keyword: Snow Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0766
 - Ice
 - Land Cover:
-    gcmd_name: Land Cover
+    gcmd_keyword: Land Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0451
 - Estimates
 - Soil Temperature:
-    gcmd_name: Soil Temperature
+    gcmd_keyword: Soil Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0801
 - NDVI Estimates
 - Vegetation Index:
-    gcmd_name: Vegetation Index
+    gcmd_keyword: Vegetation Index
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0916
 - Vegetation:
-    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
 - Emissivity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Emissivity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G203
 - Bare Soil

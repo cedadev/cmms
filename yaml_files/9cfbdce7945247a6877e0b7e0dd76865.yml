@@ -2,15 +2,15 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Cloud Amount
 - Precipitation:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H334
 - Wind Direction
 - Vapour Pressure
 - Climatology
 - Frost:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Phenomena > Frost
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G177

@@ -4,15 +4,15 @@ phenomena:
 - Frequency
 - Cloud Amount
 - Cloud Height:
-    gcmd_name: Cloud Height
+    gcmd_keyword: Cloud Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0143
 - Cloud Top Pressure:
-    gcmd_name: Cloud Top Pressure
+    gcmd_keyword: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
 - Thickness
 - Cloud Optical Depth
 - Cloud Types:
-    gcmd_name: Cloud Types
+    gcmd_keyword: Cloud Types
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
 - Cloud Fraction
 - Phase

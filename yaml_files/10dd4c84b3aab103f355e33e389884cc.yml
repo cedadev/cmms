@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Heat Flux:
-    gcmd_name: Heat Flux
+    gcmd_keyword: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368

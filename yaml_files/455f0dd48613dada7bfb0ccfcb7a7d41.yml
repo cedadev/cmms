@@ -2,7 +2,7 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Duration Of Rain
 - Hourly Rainfall Amount

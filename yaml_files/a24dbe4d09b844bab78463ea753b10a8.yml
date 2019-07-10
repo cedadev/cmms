@@ -2,40 +2,40 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Geopotential Height:
-    gcmd_name: Geopotential Height
+    gcmd_keyword: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
 - Aerosol Backscatter:
-    gcmd_name: Aerosol Backscatter
+    gcmd_keyword: Aerosol Backscatter
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0016
 - Aerosol Particle Properties:
-    gcmd_name: Aerosol Particle Properties
+    gcmd_keyword: Aerosol Particle Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0019
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Barometric Altitude:
-    gcmd_name: Barometric Altitude
+    gcmd_keyword: Barometric Altitude
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0074
 - Dew Point Temperature:
-    gcmd_name: Dew Point Temperature
+    gcmd_keyword: Dew Point Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
 - Nitrous Oxide:
-    gcmd_name: Nitrous Oxide
+    gcmd_keyword: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Atmospheric Pressure Measurements:
-    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067

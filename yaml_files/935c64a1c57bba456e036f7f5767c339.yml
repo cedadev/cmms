@@ -2,31 +2,31 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Precipitation:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H334
 - Windspeed
 - Sea Level Pressure:
-    gcmd_name: Sea Level Pressure
+    gcmd_keyword: Sea Level Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
 - Sea Surface Temperature:
-    gcmd_name: Sea Surface Temperature
+    gcmd_keyword: Sea Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0728
 - Net Radiation:
-    gcmd_name: Net Radiation
+    gcmd_keyword: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
 - Total Cloud Cover
 - Specific Humidity
 - Heat Flux:
-    gcmd_name: Heat Flux
+    gcmd_keyword: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368
 - Wind Stress:
-    gcmd_name: Wind Stress
+    gcmd_keyword: Wind Stress
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0966
 - Evaporation:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Evaporation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G237
 - Sensible Heat Flux
 - Latent Heat Flux

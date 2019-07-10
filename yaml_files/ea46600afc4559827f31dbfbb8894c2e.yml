@@ -2,70 +2,70 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Nitrous Oxide:
-    gcmd_name: Nitrous Oxide
+    gcmd_keyword: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Atmospheric Radiation:
-    gcmd_name: Atmospheric Radiation
+    gcmd_keyword: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
 - Frequency
 - Cloud Amount
 - Atmospheric Chemistry:
-    gcmd_name: Atmospheric Chemistry
+    gcmd_keyword: Atmospheric Chemistry
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
 - Carbon Monoxide:
-    gcmd_name: Carbon Monoxide
+    gcmd_keyword: Carbon Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
 - Carbon And Hydrocarbon Compounds
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Atmospheric Water Vapor:
-    gcmd_name: Atmospheric Water Vapor
+    gcmd_keyword: Atmospheric Water Vapor
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0026
 - Atmospheric Temperature:
-    gcmd_name: Atmospheric Temperature
+    gcmd_keyword: Atmospheric Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0025
 - Cloud Top Temperature:
-    gcmd_name: Cloud Top Temperature
+    gcmd_keyword: Cloud Top Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - Carbon Dioxide:
-    gcmd_name: Carbon Dioxide
+    gcmd_keyword: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
 - Temperature Profiles:
-    gcmd_name: Temperature Profiles
+    gcmd_keyword: Temperature Profiles
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0862
 - Cloud Top Pressure:
-    gcmd_name: Cloud Top Pressure
+    gcmd_keyword: Cloud Top Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0149
 - Infrared Wavelengths:
-    gcmd_name: Infrared Wavelengths
+    gcmd_keyword: Infrared Wavelengths
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0056
 - Engineering
 - Cloud Cover
 - Air Quality:
-    gcmd_name: Air Quality
+    gcmd_keyword: Air Quality
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0006
 - Infrared Radiance:
-    gcmd_name: Infrared Radiance
+    gcmd_keyword: Infrared Radiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0421
 - Water Vapor Profiles:
-    gcmd_name: Water Vapor Profiles
+    gcmd_keyword: Water Vapor Profiles
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0944
 - Tropospheric Ozone:
-    gcmd_name: Tropospheric Ozone
+    gcmd_keyword: Tropospheric Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0899

@@ -2,6 +2,6 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Total Radiation

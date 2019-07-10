@@ -2,29 +2,29 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Geopotential Height:
-    gcmd_name: Geopotential Height
+    gcmd_keyword: Geopotential Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0341
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Temperature
 - Relative Humidity
 - Sea Level Pressure:
-    gcmd_name: Sea Level Pressure
+    gcmd_keyword: Sea Level Pressure
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0722
 - Potential Vorticity
 - Vorticity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
 - Potential Temperature:
-    gcmd_name: Potential Temperature
+    gcmd_keyword: Potential Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
 - Trajectory Longitude
 - Streamfunctions:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Streamfunctions
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Streamfunctions
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G249
 - Trajectory Latitude
 - Trajectory Height

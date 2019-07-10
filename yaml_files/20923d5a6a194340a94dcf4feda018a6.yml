@@ -2,38 +2,38 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Surface Air Temperature:
-    gcmd_name: Surface Air Temperature
+    gcmd_keyword: Surface Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0848
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Wind Direction
 - Surface Winds:
-    gcmd_name: Surface Winds
+    gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Windspeed
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Land Surface Temperature:
-    gcmd_name: Land Surface Temperature
+    gcmd_keyword: Land Surface Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0457
 - Cloud Precipitable Water:
-    gcmd_name: Cloud Precipitable Water
+    gcmd_keyword: Cloud Precipitable Water
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0147
 - 10 Minute Mean Wind Speed
 - Minimum Temperature
 - Maximum
 - 10 Minute Mean Wind Direction
 - Precipitation Amount:
-    gcmd_name: Precipitation Amount
+    gcmd_keyword: Precipitation Amount
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0656
 - Trajectory Longitude
 - Streamfunctions:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Streamfunctions
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Streamfunctions
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G249
 - Day Min Temperature
 - Wind Gusts At 10 m
@@ -44,7 +44,7 @@ phenomena:
 - Apparent Surface Humidity
 - Surface
 - Station Height:
-    gcmd_name: Station Height
+    gcmd_keyword: Station Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0828
 - Trajectory Latitude
 - Day Max Temperature

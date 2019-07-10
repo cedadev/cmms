@@ -2,45 +2,45 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Brightness Temperature:
-    gcmd_name: Brightness Temperature
+    gcmd_keyword: Brightness Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0104
 - Air Temperature:
-    gcmd_name: Air Temperature
+    gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
 - Aerosol Particle Properties:
-    gcmd_name: Aerosol Particle Properties
+    gcmd_keyword: Aerosol Particle Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0019
 - Humidity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Water Vapor > Humidity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G239
 - Nitrous Oxide:
-    gcmd_name: Nitrous Oxide
+    gcmd_keyword: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
 - Nitrogen Compounds:
-    gcmd_name: Nitrogen Compounds
+    gcmd_keyword: Nitrogen Compounds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0558
 - Nitrogen Oxides:
-    gcmd_name: Nitrogen Oxides
+    gcmd_keyword: Nitrogen Oxides
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0560
 - Ozone:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
 - Oxygen Compounds
 - Atmospheric Pressure Measurements:
-    gcmd_name: Atmospheric Pressure Measurements
+    gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
 - Albedo:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
 - Total Ozone Column
 - Halons And Halogens
 - Carbon Monoxide:
-    gcmd_name: Carbon Monoxide
+    gcmd_keyword: Carbon Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0112
 - Carbon And Hydrocarbon Compounds
 - Halocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Halocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
 - Trace Species
@@ -48,38 +48,38 @@ phenomena:
 - Hydrogen Compounds
 - U Zonal Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Cloud Height:
-    gcmd_name: Cloud Height
+    gcmd_keyword: Cloud Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0143
 - Humidity Mixing Ratio
 - Vertical Wind Motion:
-    gcmd_name: Vertical Wind Motion
+    gcmd_keyword: Vertical Wind Motion
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
 - Cloud Ceiling:
-    gcmd_name: Cloud Ceiling
+    gcmd_keyword: Cloud Ceiling
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0139
 - Potential Vorticity
 - Vorticity:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Vorticity
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G254
 - Particle Surface Concentration
 - Particle Number Concentration
 - Photolysis Rates:
-    gcmd_name: Photolysis Rates
+    gcmd_keyword: Photolysis Rates
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0625
 - V Meridional Windspeed
 - Particle Volume Concentration
 - Cloud Top Temperature:
-    gcmd_name: Cloud Top Temperature
+    gcmd_keyword: Cloud Top Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0150
 - Potential Temperature:
-    gcmd_name: Potential Temperature
+    gcmd_keyword: Potential Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0653
 - U Vreflectance
 - Reflectance:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Reflectance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G212
 - HCl:
     alt_names:
@@ -91,33 +91,33 @@ phenomena:
     alt_names:
     - Trichlorofluoromethane
 - Chlorofluorocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Chlorofluorocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G146
 - Chlorine Monoxide:
-    gcmd_name: Chlorine Monoxide
+    gcmd_keyword: Chlorine Monoxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0128
 - CFC-113:
     alt_names:
     - 1,1,2-Trichlorotrifluoroethane
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - Carbon Dioxide:
-    gcmd_name: Carbon Dioxide
+    gcmd_keyword: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
 - NOY
 - Hydroxyl:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen Compounds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Hydrogen Compounds
       > Hydroxyl
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G154
 - Vertical Velocity
 - Tropopause:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Altitude > Tropopause
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Altitude > Tropopause
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G128
 - Radiative Flux:
-    gcmd_name: Radiative Flux
+    gcmd_keyword: Radiative Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0677
 - Bro:
     alt_names:

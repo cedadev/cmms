@@ -2,10 +2,10 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Cloud Height:
-    gcmd_name: Cloud Height
+    gcmd_keyword: Cloud Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0143
 - Base Of Lowest Cloud
 - Cloud Cover

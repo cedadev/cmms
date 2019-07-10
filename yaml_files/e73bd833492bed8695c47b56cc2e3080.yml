@@ -2,14 +2,14 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Albedo:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
 - Atmospheric Radiation:
-    gcmd_name: Atmospheric Radiation
+    gcmd_keyword: Atmospheric Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0024
 - Surface Radiative Properties:
-    gcmd_name: Surface Radiative Properties
+    gcmd_keyword: Surface Radiative Properties
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0103
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333

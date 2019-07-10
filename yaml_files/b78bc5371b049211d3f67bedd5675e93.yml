@@ -3,25 +3,25 @@ splice rules:
 phenomena:
 - Wind Direction
 - Surface Winds:
-    gcmd_name: Surface Winds
+    gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Windspeed
 - U Zonal Windspeed
 - Upper Level Winds:
-    gcmd_name: Upper Level Winds
+    gcmd_keyword: Upper Level Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0909
 - Vertical Wind Motion:
-    gcmd_name: Vertical Wind Motion
+    gcmd_keyword: Vertical Wind Motion
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0920
 - V Meridional Windspeed
 - Tropopause:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Altitude > Tropopause
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Altitude > Tropopause
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G128
 - Vertical Windspeed
 - Atmospheric Stability:
-    gcmd_name: Atmospheric Stability
+    gcmd_keyword: Atmospheric Stability
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0068
 - Turbulence:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Turbulence
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Winds > Turbulence
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G251
 - Spectral Width

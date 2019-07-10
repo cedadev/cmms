@@ -2,39 +2,39 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Nitrous Oxide:
-    gcmd_name: Nitrous Oxide
+    gcmd_keyword: Nitrous Oxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0561
 - Halons And Halogens
 - Atmospheric Chemistry:
-    gcmd_name: Atmospheric Chemistry
+    gcmd_keyword: Atmospheric Chemistry
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0014
 - Halocarbons:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Halons and Halogens
       > Halocarbons
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G147
 - Trace Species
 - Trace Gases
 - Methane:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Carbon and Hydrocarbon
       Compounds > Methane
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G138
 - Carbon Dioxide:
-    gcmd_name: Carbon Dioxide
+    gcmd_keyword: Carbon Dioxide
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0111
 - Firn:
-    gcmd_name: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Firn
+    gcmd_keyword: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Firn
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G491
 - Ice Sheets:
-    gcmd_name: Ice Sheets
+    gcmd_keyword: Ice Sheets
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0405
 - Glaciers:
-    gcmd_name: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Glaciers
+    gcmd_keyword: EARTH SCIENCE > Cryosphere > Glaciers/Ice Sheets > Glaciers
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G498
 - Ice Core Records:
-    gcmd_name: Ice Core Records
+    gcmd_keyword: Ice Core Records
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0055
 - Long Lived Halocarbons
 - Isotopes:
-    gcmd_name: EARTH SCIENCE > Cryosphere > Sea Ice > Isotopes
+    gcmd_keyword: EARTH SCIENCE > Cryosphere > Sea Ice > Isotopes
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G512
 - Alkyl Nitrates

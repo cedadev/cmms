@@ -2,19 +2,19 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Dew Point Temperature:
-    gcmd_name: Dew Point Temperature
+    gcmd_keyword: Dew Point Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0210
 - Temperature
 - Relative Humidity
 - Wind Direction
 - Windspeed
 - Net Radiation:
-    gcmd_name: Net Radiation
+    gcmd_keyword: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
 - Gust Speed
 - Solar Radiation:
-    gcmd_name: Solar Radiation
+    gcmd_keyword: Solar Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0812
 - Heat Flux:
-    gcmd_name: Heat Flux
+    gcmd_keyword: Heat Flux
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0368

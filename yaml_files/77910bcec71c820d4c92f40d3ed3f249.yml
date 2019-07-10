@@ -8,17 +8,17 @@ phenomena:
 - Wind Direction
 - Cloud Amount
 - Clouds:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Clouds
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Clouds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H333
 - Rain:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Precipitation > Rain
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Mean Hourly Wind Speed
 - Surface Winds:
-    gcmd_name: Surface Winds
+    gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Atmospheric Winds:
-    gcmd_name: Atmospheric Winds
+    gcmd_keyword: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
 - Windspeed
 - Mean Hourly Wind Direction
@@ -28,7 +28,7 @@ phenomena:
 - Wet Bulb Temperature
 - 10 Minute Mean Wind Speed
 - Cloud Types:
-    gcmd_name: Cloud Types
+    gcmd_keyword: Cloud Types
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0151
 - Max Dry Bulb Temperature
 - Minimum Temperature
@@ -43,5 +43,5 @@ phenomena:
 - Duration Of Rain
 - Wind Gusts At 10 m
 - Sunshine:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217

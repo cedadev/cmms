@@ -2,25 +2,25 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Albedo:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Albedo
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G199
 - Frequency
 - Cloud Amount
 - Solar Irradiance:
-    gcmd_name: Solar Irradiance
+    gcmd_keyword: Solar Irradiance
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0809
 - Net Radiation:
-    gcmd_name: Net Radiation
+    gcmd_keyword: Net Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0546
 - Total Cloud Cover
 - Cloud Forcing:
-    gcmd_name: Cloud Forcing
+    gcmd_keyword: Cloud Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0142
 - Shortwave Radiation:
-    gcmd_name: Shortwave Radiation
+    gcmd_keyword: Shortwave Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0755
 - Radiative Forcing:
-    gcmd_name: Radiative Forcing
+    gcmd_keyword: Radiative Forcing
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0678
 - Surface Solar Radiation
 - Surface Thermal Radiation

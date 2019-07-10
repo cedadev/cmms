@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Atmospheric Phenomena:
-    gcmd_name: Atmospheric Phenomena
+    gcmd_keyword: Atmospheric Phenomena
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0022

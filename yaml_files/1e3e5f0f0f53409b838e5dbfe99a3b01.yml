@@ -2,5 +2,5 @@ splice rules:
   phenomena: append_new_only
 phenomena:
 - Aerosols:
-    gcmd_name: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Aerosols
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316

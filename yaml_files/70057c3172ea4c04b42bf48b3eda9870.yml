@@ -2,49 +2,49 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Vegetation Index:
-    gcmd_name: Vegetation Index
+    gcmd_keyword: Vegetation Index
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0916
 - Vegetation:
-    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H344
 - Carbon:
-    gcmd_name: EARTH SCIENCE > Agriculture > Soils > Carbon
+    gcmd_keyword: EARTH SCIENCE > Agriculture > Soils > Carbon
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G053
 - Vegetation Cover:
-    gcmd_name: Vegetation Cover
+    gcmd_keyword: Vegetation Cover
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0915
 - Canopy Characteristics:
-    gcmd_name: Canopy Characteristics
+    gcmd_keyword: Canopy Characteristics
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0109
 - Photosynthetically Active Radiation:
-    gcmd_name: Photosynthetically Active Radiation
+    gcmd_keyword: Photosynthetically Active Radiation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0627
 - Ecological Dynamics:
-    gcmd_name: Ecological Dynamics
+    gcmd_keyword: Ecological Dynamics
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0034
 - Plant Commodities:
-    gcmd_name: Plant Commodities
+    gcmd_keyword: Plant Commodities
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0085
 - Biomass:
-    gcmd_name: EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Ecological Dynamics > Biomass
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G328
 - Chlorophyll:
-    gcmd_name: EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Microbiota > Chlorophyll
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G377
 - Crown:
-    gcmd_name: EARTH SCIENCE > Biosphere > Vegetation > Crown
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Vegetation > Crown
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G421
 - Deciduous Vegetation:
-    gcmd_name: Deciduous Vegetation
+    gcmd_keyword: Deciduous Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0195
 - Evergreen Vegetation:
-    gcmd_name: Evergreen Vegetation
+    gcmd_keyword: Evergreen Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0268
 - Exotic Vegetation:
-    gcmd_name: Exotic Vegetation
+    gcmd_keyword: Exotic Vegetation
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0271
 - Vegetation Structure
 - Forest Composition
 - Photosynthesis:
-    gcmd_name: EARTH SCIENCE > Biosphere > Ecological Dynamics > Photosynthesis
+    gcmd_keyword: EARTH SCIENCE > Biosphere > Ecological Dynamics > Photosynthesis
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G353

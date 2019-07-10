@@ -2,7 +2,7 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Sea Surface Height:
-    gcmd_name: Sea Surface Height
+    gcmd_keyword: Sea Surface Height
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0726
 - Changes In Global Sea Level
 - Global Sea Level
