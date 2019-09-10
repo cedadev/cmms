@@ -1,6 +1,15 @@
 splice rules:
   phenomena: default
 
+# a list of items, one per phenomena
+# each element can be just 
+# a name or could be a dictionary where
+# more information can be given as a group
+# in the example below 'Air Temperature' will be the display name 
+# with associated entries being items from a vocab
+# 'names' is used where there are a list of names to consider
+#
 
 phenomena:
-  temperature
+- Air Temperature:
+    gcmd_keyword: Air Temperature
