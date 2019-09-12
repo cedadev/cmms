@@ -35,14 +35,7 @@ phenomena:
     gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Chemistry/Oxygen Compounds
       > Ozone
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G164
-- Charlotte:
-    gcmd_keyword: Charlotte
 - Oxygen Compounds
 - Atmospheric Pressure Measurements:
     gcmd_keyword: Atmospheric Pressure Measurements
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0067
-- Charlotte:
-    gcmd_keyword: Charlotte
-    gcmd_url: Charlotte
-- Wibble:
-    gcmd_keyword: wibble
