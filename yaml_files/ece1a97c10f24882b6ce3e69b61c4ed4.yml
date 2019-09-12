@@ -7,7 +7,10 @@ phenomena:
     gcmd_url: http://vocab.nerc.ac.uk/collection/P04/current/H147/
 - REFLECTED INFRARED
     gcmd_keyword: SPECTRAL/ENGINEERING > INFRARED WAVELENGTHS > REFLECTED INFRARED 
+    gcmd_url: http://vocab.nerc.ac.uk/collection/P04/current/H148/
 - THERMAL INFRARED
     gcmd_keyword: SPECTRAL/ENGINEERING > INFRARED WAVELENGTHS > THERMAL INFRARED 
+    gcmd_url: http://vocab.nerc.ac.uk/collection/P04/current/H150/
 - VISIBLE RADIANCE
     gcmd_keyword: SPECTRAL/ENGINEERING > VISIBLE WAVELENGTHS > VISIBLE RADIANCE 
+    gcmd_url: http://vocab.nerc.ac.uk/collection/P04/current/H185/
