@@ -1,0 +1,10 @@
+splice rules:
+  phenomena: cmms_only
+
+phenomena:
+- Air Temperature:
+    gcmd_keyword: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Graham's parameter
