@@ -44,4 +44,5 @@ phenomena:
 - Charlotte:
     gcmd_keyword: Charlotte
     gcmd_url: Charlotte
-    
+- Wibble:
+    gcmd_keyword: wibble
