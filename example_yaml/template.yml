@@ -1,0 +1,36 @@
+CMMS TEMPLATE WITH EXAMPLES - REMOVE UNREQUIRED CONTENT
+
+splice rules:
+  phenomena: cmms_only
+
+phenomena:
+- Air Temperature:
+    gcmd_keyword: Air Temperature
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
+    names:
+    - Air Temperature
+- Vertical Profile Of Air Temperature
+- Aerosols:
+    gcmd_keyword: EARTH SCIENCE > Atmosphere > Aerosols
+    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/H316
+
+time_range:
+    start: 2002-10-27 00:00:00
+    end: 2002-10-28 23:59:59
+
+bbox:
+    north: 52.42
+    east: 0.04
+    west: -4.1
+    south: 51.07
+
+size: 2.8 gb
+
+n_files: 12
+
+accessType: restricted
+
+accessRoles:
+    - sting_jet
+
+licenceUrl: http://licences.ceda.ac.uk/image/data_access_condition/ukmo_agreement.pdf
