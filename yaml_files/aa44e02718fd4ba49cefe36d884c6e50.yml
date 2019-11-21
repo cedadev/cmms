@@ -1,0 +1,15 @@
+splice rules:
+  phenomena: cmms_only
+
+phenomena:
+- Date and time of the meteor detection
+- Range to the meteor echo point
+- Height of the meteor echo above the ground
+- Radial drift velocity of the meteor echo and its uncertainty
+- Zenith and azimuth angles of the meteor echo
+- Ambiguity levels in the determined zenith and azimuth angles
+- Decay time of the meteor echo
+- Meteor echo power and S/N ratio
+- Mesosphere Air Temperature:
+- Mesosphere Zonal Wind Component
+- Mesosphere Meridional Wind Component
