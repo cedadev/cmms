@@ -1,5 +1,4 @@
 splice rules:
    phenomena: cmms_only
-
-phenomena:\
+phenomena:
 - Air Temperature
