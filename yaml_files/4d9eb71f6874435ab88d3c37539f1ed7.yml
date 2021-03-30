@@ -1,49 +1,49 @@
 splice rules:
   phenomena: cmms_only
-  
+
 phenomena:
-  TEST
-  Divergence:
+- TEST
+- Divergence:
     names:
     - Divergence
     units: s**-1
-  Geopotential:
+- Geopotential:
     names:
     - Geopotential
     units: m**2 s**-2
-  Logarithm of surface pressure:
+- Logarithm of surface pressure:
     names:
     - Logarithm of surface pressure
     units: '~'
-  Ozone mass mixing ratio:
+- Ozone mass mixing ratio:
     names:
     - Ozone mass mixing ratio
     units: kg kg**-1
-  Pressure:
+- Pressure:
     names:
     - Pressure
     units: Pa
-  Specific humidity:
+- Specific humidity:
     names:
     - Specific humidity
     units: kg kg**-1
-  Temperature:
+- Temperature:
     names:
     - Temperature
     units: K
-  U component of wind:
+- U component of wind:
     names:
     - U component of wind
     units: m s**-1
-  V component of wind:
+- V component of wind:
     names:
     - V component of wind
     units: m s**-1
-  Vertical velocity:
+- Vertical velocity:
     names:
     - Vertical velocity
     units: Pa s**-1
-  Vorticity (relative):
+- Vorticity (relative):
     names:
     - Vorticity (relative)
     units: s**-1
