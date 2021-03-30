@@ -1,5 +1,6 @@
-splice_rules: CMMS_only
-
+splice rules:
+  phenomena: cmms_only
+  
 phenomena:
   Divergence:
     names:
