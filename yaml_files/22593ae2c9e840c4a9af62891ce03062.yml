@@ -1,7 +1,36 @@
 splice rules:
-   phenomena: cmms_only
+  phenomena: cmms_only
 phenomena:
--TEST
--TEST 1:
-  units: ms-1
-- Air Temperature
+- TEST
+- Divergence:
+    names:
+    - Divergence
+    units: s**-1
+- Geopotential:
+    names:
+    - Geopotential
+    units: m**2 s**-2
+- Logarithm of surface pressure:
+    names:
+    - Logarithm of surface pressure
+    units: '~'
+- Ozone mass mixing ratio:
+    names:
+    - Ozone mass mixing ratio
+    units: kg kg**-1
+- Pressure:
+    names:
+    - Pressure
+    units: Pa
+- Specific humidity:
+    names:
+    - Specific humidity
+    units: kg kg**-1
+- Temperature:
+    names:
+    - Temperature
+    units: K
+- U component of wind:
+    names:
+    - U component of wind
+    units: m s**-1
