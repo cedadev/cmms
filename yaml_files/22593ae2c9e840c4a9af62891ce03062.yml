@@ -1,5 +1,5 @@
 splice rules:
-  phenomena: cmms_only
+  phenomena: append
 phenomena:
 - TEST
 - Divergence:
