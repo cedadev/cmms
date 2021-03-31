@@ -1,4 +1,7 @@
 splice rules:
    phenomena: cmms_only
 phenomena:
+-TEST
+-TEST 1:
+  units: ms-1
 - Air Temperature
