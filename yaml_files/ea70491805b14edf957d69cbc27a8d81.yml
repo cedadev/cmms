@@ -1,0 +1,64 @@
+splice rules:
+ phenomena: cmms_only
+ 
+phenomena:
+ - Id
+ - Site Id
+ - Longitude
+ - Latitude
+ - Report Date / Time
+ - Air Temperature
+ - Wet Bulb
+ - Dew Point
+ - Concrete Temp.
+ - Grass Temp.
+ - Min. Temp. (last 24hr)
+ - Max. Temp. (last 24hr)
+ - Soil Temp. (at 10cm)
+ - Soil Temp. (at 30cm)
+ - Soil Temp. (at 100cm)
+ - Mean Sea-Level Pressure
+ - Pressure (At Station)
+ - Relative Humidity
+ - Rainfall Rate
+ - Rainfall Accumulation
+ - Wind Speed
+ - Wind Direction
+ - Wind Gust
+ - Wind Gust Direction
+ - Snow Depth
+ - Soil Moisture
+ - Present Weather
+ - Visibility
+ - Total Cloud Cover
+ - Sunshine
+ - Ground State
+ - Day of Thunder
+ - Day of Gales
+ - Day of Hail
+ - Day of Snow
+ - Weather Diary
+ - Travel Disruption
+ - Hazards causing Travel Disruption
+ - Property or Infrastructure Damage
+ - Hazards causing Property or Infrastructure Damage
+ - Personal Health and Safety
+ - Hazards causing Personal Health and Safety
+ - Utility Disruption
+ - Hazards causing Utility Disruption
+ - Service or Business Disruption
+ - Hazards causing Service or Business Disruption
+ - Agriculture Habitat Damage
+ - Hazards causing Agriculture Habitat Damage
+ - Disruption to Camping Events Leisure Activities
+ - Hazards causing Disruption to Camping Events Leisure Activities
+ - v1_Coastal
+ - v1_Flood
+ - v1_Ice
+ - v1_Landslide
+ - v1_Lightning
+ - v1_PoorVisibility
+ - v1_Snow
+ - v1_Wildfire
+ - v1_Wind
+ - v1_Other
