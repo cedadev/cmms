@@ -1,0 +1,38 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Air pressure: 
+     names: 
+       - Air pressure
+       - Pressure in hPa (Hectopascal) to one decimal place
+     units: hPa
+- Air Temperature: 
+    names:
+     - Air Temperature
+     - Air temperature in degrees C, to one decimal place
+    units: degrees C
+- humidity:
+    names:
+     - humidity, Percentage, integer
+    units: %
+- wind direction: 
+    names:
+     - wind direction, indicates the wind direction in degrees from north, integer
+    units: degrees from north
+- wind speed:
+    names:
+     - wind speed, indicate wind speed in km/h, integer
+    units:km h**-1
+- gust direction:
+    names:
+     - gust direction, indicates the wind gust direction in degrees from north, integer
+    units: degrees from north
+- gust speed:
+    names:
+     - gust speed, indicate wind gust speed in km/h, integer
+    units: km h**-1
+- rain accumulation:
+    names:
+     - rain accumulation
+     - rainfall total in mm. 5 minute accumulations
+    units: mm
