@@ -1,7 +1,6 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
-- TEST
 - Divergence:
     names:
     - Divergence
