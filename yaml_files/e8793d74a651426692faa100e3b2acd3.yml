@@ -14,7 +14,7 @@ phenomena:
  - humidity:
     names:
      - humidity, Percentage, integer
-    units: %
+    units: percent
  - wind direction: 
     names:
      - wind direction, indicates the wind direction in degrees from north, integer
@@ -22,7 +22,7 @@ phenomena:
  - wind speed:
     names:
      - wind speed, indicate wind speed in km/h, integer
-    units:km h**-1
+    units: km h**-1
  - gust direction:
     names:
      - gust direction, indicates the wind gust direction in degrees from north, integer
