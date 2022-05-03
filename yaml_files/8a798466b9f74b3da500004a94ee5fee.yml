@@ -1,0 +1,12 @@
+splice rules:
+  phenomena: cmms_only
+  
+phenomena:
+- Unique id of spectra
+- date
+- day of year
+- species name latin
+- species name short
+- leaf number
+- instrument_name
+- 350-2500 reflectance in nm
