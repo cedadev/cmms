@@ -1,9 +1,112 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
-- 24 Hour Rainfall
-- Rain:
-    gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
-    gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
-- Duration Of Rain
-- 12 Hours Rainfall Amount
+- Date and time at end of observation:
+    names:
+    - Date and time at end of observation
+    units: s
+- Met Office receipt stamp time:
+    names:
+    - Met Office receipt stamp time
+    units: s
+- The identifier associated with a particular report type for this station:
+    names:
+    - The identifier associated with a particular report type for this station
+    units: '1'
+- The identifier type associated with a particular reporting capability for this station:
+    names:
+    - The identifier type associated with a particular reporting capability for this
+      station
+    units: '1'
+- The unique MIDAS identifier for the station:
+    names:
+    - The unique MIDAS identifier for the station
+    units: '1'
+- elapsed time to storage in MIDAS:
+    names:
+    - elapsed time to storage in MIDAS
+    units: minutes
+- identifier type:
+    names:
+    - identifier type
+    units: '1'
+- last year of data associated with this id/id_type in this version of this dataset:
+    names:
+    - last year of data associated with this id/id_type in this version of this dataset
+    units: year
+- last year of data associated with this station in this dataset:
+    names:
+    - last year of data associated with this station in this dataset
+    units: year
+- maximum air temperature:
+    names:
+    - maximum air temperature
+    units: degC
+- maximum air temperature descriptor code:
+    names:
+    - maximum air temperature descriptor code
+    units: '1'
+- maximum air temperature qc code:
+    names:
+    - maximum air temperature qc code
+    units: '1'
+- message type:
+    names:
+    - message type
+    units: '1'
+- midas qc version number:
+    names:
+    - midas qc version number
+    units: '1'
+- minimum air temperature:
+    names:
+    - minimum air temperature
+    units: degC
+- minimum air temperature descriptor code:
+    names:
+    - minimum air temperature descriptor code
+    units: '1'
+- minimum air temperature qc code:
+    names:
+    - minimum air temperature qc code
+    units: '1'
+- minimum concrete temperature:
+    names:
+    - minimum concrete temperature
+    units: ' degC'
+- minimum concrete temperature descriptor code:
+    names:
+    - minimum concrete temperature descriptor code
+    units: '1'
+- minimum concrete temperature qc code:
+    names:
+    - minimum concrete temperature qc code
+    units: '1'
+- minimum grass temperature:
+    names:
+    - minimum grass temperature
+    units: ' degC'
+- minimum grass temperature descriptor code:
+    names:
+    - minimum grass temperature descriptor code
+    units: '1'
+- minimum grass temperature qc code:
+    names:
+    - minimum grass temperature qc code
+    units: '1'
+- observation hour count:
+    names:
+    - observation hour count
+    units: hours
+- state indicator for the record:
+    names:
+    - state indicator for the record
+    units: '1'
+- station identifier:
+    names:
+    - station identifier
+    units: '1'
+- unique MIDAS source identifier:
+    names:
+    - unique MIDAS source identifier
+    units: '1'
