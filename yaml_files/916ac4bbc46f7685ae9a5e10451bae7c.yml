@@ -7,29 +7,434 @@ phenomena:
 - Snow:
     gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Snow
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G290
-- Wind Direction
 - Surface Winds:
     gcmd_keyword: Surface Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0853
 - Atmospheric Winds:
     gcmd_keyword: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
-- Windspeed
 - Rain:
     gcmd_keyword: EARTH SCIENCE > Atmosphere > Precipitation > Rain
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Lightning:
     gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Electricity > Lightning
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G171
-- Ice
-- Hourly Sunshine
 - Sunshine:
     gcmd_keyword: EARTH SCIENCE > Atmosphere > Atmospheric Radiation > Sunshine
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G217
-- Sunshine Amount
-- 10 Minute Mean Wind Speed
-- 10 Minute Mean Wind Direction
-- 10 Metre U Wind
-- 10 Metre V Wind
-- Mean Hourly Wind Speed
-- Mean Hourly Wind Direction
+- 10 minute maximum gust speed:
+    names:
+    - 10 minute maximum gust speed
+    units: knots
+- Air temperature:
+    names:
+    - Air temperature
+    units: degC
+- Altimeter pressure:
+    names:
+    - Altimeter pressure
+    units: hPa
+- Calculated relative humidity:
+    names:
+    - Calculated relative humidity
+    units: '%'
+- Campbell-stokes hour sunshine duration:
+    names:
+    - Campbell-stokes hour sunshine duration
+    units: hours
+- Date and time of observation:
+    names:
+    - Date and time of observation
+    units: s
+- Descriptor - 10 min maximum gust speed:
+    names:
+    - Descriptor - 10 min maximum gust speed
+    units: '1'
+- Descriptor - air temperature:
+    names:
+    - Descriptor - air temperature
+    units: '1'
+- Descriptor - altimiter pressure:
+    names:
+    - Descriptor - altimiter pressure
+    units: '1'
+- Descriptor - cloud amount id:
+    names:
+    - Descriptor - cloud amount id
+    units: '1'
+- 'Descriptor - cloud base height ':
+    names:
+    - 'Descriptor - cloud base height '
+    units: '1'
+- Descriptor - dewpoint temperature:
+    names:
+    - Descriptor - dewpoint temperature
+    units: '1'
+- Descriptor - msl pressure:
+    names:
+    - Descriptor - msl pressure
+    units: '1'
+- 'Descriptor - past weather code #1':
+    names:
+    - 'Descriptor - past weather code #1'
+    units: '1'
+- 'Descriptor - past weather code #2':
+    names:
+    - 'Descriptor - past weather code #2'
+    units: '1'
+- Descriptor - present weather code:
+    names:
+    - Descriptor - present weather code
+    units: '1'
+- Descriptor - station pressure:
+    names:
+    - Descriptor - station pressure
+    units: '1'
+- Descriptor - vertical visibility:
+    names:
+    - Descriptor - vertical visibility
+    units: '1'
+- Descriptor - visibility:
+    names:
+    - Descriptor - visibility
+    units: '1'
+- Descriptor - wetbulb temperature:
+    names:
+    - Descriptor - wetbulb temperature
+    units: '1'
+- Descriptor - wind direction:
+    names:
+    - Descriptor - wind direction
+    units: '1'
+- Descriptor - wind speed:
+    names:
+    - Descriptor - wind speed
+    units: '1'
+- Dewpoint temperature:
+    names:
+    - Dewpoint temperature
+    units: degC
+- Elapsed time to storage in MIDAS:
+    names:
+    - Elapsed time to storage in MIDAS
+    units: minutes
+- Ground state code (see documentation):
+    names:
+    - Ground state code (see documentation)
+    units: '1'
+- Met Office receipt stamp time:
+    names:
+    - Met Office receipt stamp time
+    units: '1'
+- QC code - 10 min maximum gust speed:
+    names:
+    - QC code - 10 min maximum gust speed
+    units: '1'
+- QC code - air temperature:
+    names:
+    - QC code - air temperature
+    units: '1'
+- QC code - altimiter pressure:
+    names:
+    - QC code - altimiter pressure
+    units: '1'
+- QC code - campbell-stokes hour sunshine:
+    names:
+    - QC code - campbell-stokes hour sunshine
+    units: '1'
+- QC code - cloud base amount:
+    names:
+    - QC code - cloud base amount
+    units: '1'
+- QC code - cloud base height:
+    names:
+    - QC code - cloud base height
+    units: '1'
+- 'QC code - cloud base height code #1':
+    names:
+    - 'QC code - cloud base height code #1'
+    units: '1'
+- 'QC code - cloud base height code #2':
+    names:
+    - 'QC code - cloud base height code #2'
+    units: '1'
+- 'QC code - cloud base height code #3':
+    names:
+    - 'QC code - cloud base height code #3'
+    units: '1'
+- 'QC code - cloud base height code #4':
+    names:
+    - 'QC code - cloud base height code #4'
+    units: '1'
+- QC code - cloud total amount:
+    names:
+    - QC code - cloud total amount
+    units: '1'
+- 'QC code - cloud type code #1':
+    names:
+    - 'QC code - cloud type code #1'
+    units: '1'
+- 'QC code - cloud type code #2':
+    names:
+    - 'QC code - cloud type code #2'
+    units: '1'
+- 'QC code - cloud type code #3':
+    names:
+    - 'QC code - cloud type code #3'
+    units: '1'
+- 'QC code - cloud type code #4':
+    names:
+    - 'QC code - cloud type code #4'
+    units: '1'
+- QC code - derived hour sunshine:
+    names:
+    - QC code - derived hour sunshine
+    units: hours
+- QC code - dewpoint temperature:
+    names:
+    - QC code - dewpoint temperature
+    units: '1'
+- QC code - ground state code:
+    names:
+    - QC code - ground state code
+    units: '1'
+- QC code - high cloud type code:
+    names:
+    - QC code - high cloud type code
+    units: '1'
+- 'QC code - layer cloud amount #1':
+    names:
+    - 'QC code - layer cloud amount #1'
+    units: '1'
+- 'QC code - layer cloud amount #2':
+    names:
+    - 'QC code - layer cloud amount #2'
+    units: '1'
+- 'QC code - layer cloud amount #3':
+    names:
+    - 'QC code - layer cloud amount #3'
+    units: '1'
+- 'QC code - layer cloud amount #4':
+    names:
+    - 'QC code - layer cloud amount #4'
+    units: '1'
+- QC code - low cloud type code:
+    names:
+    - QC code - low cloud type code
+    units: '1'
+- QC code - medium cloud type code:
+    names:
+    - QC code - medium cloud type code
+    units: '1'
+- QC code - msl pressure:
+    names:
+    - QC code - msl pressure
+    units: '1'
+- 'QC code - past weather code #1':
+    names:
+    - 'QC code - past weather code #1'
+    units: '1'
+- 'QC code - past weather code #2':
+    names:
+    - 'QC code - past weather code #2'
+    units: '1'
+- QC code - present weather:
+    names:
+    - QC code - present weather
+    units: '1'
+- QC code - snow depth:
+    names:
+    - QC code - snow depth
+    units: '1'
+- QC code - station pressure:
+    names:
+    - QC code - station pressure
+    units: '1'
+- QC code - vertical visibility:
+    names:
+    - QC code - vertical visibility
+    units: '1'
+- QC code - visibility:
+    names:
+    - QC code - visibility
+    units: '1'
+- QC code - wetbulb temperature:
+    names:
+    - QC code - wetbulb temperature
+    units: '1'
+- QC code - wind direction:
+    names:
+    - QC code - wind direction
+    units: '1'
+- QC code - wind speed:
+    names:
+    - QC code - wind speed
+    units: '1'
+- QC code - wmo hour sunshine:
+    names:
+    - QC code - wmo hour sunshine
+    units: '1'
+- Snow depth:
+    names:
+    - Snow depth
+    units: cm
+- Station air pressure:
+    names:
+    - Station air pressure
+    units: hPa
+- Total cloud amount code:
+    names:
+    - Total cloud amount code
+    units: Oktas
+- WMO hour sunshine duration:
+    names:
+    - WMO hour sunshine duration
+    units: hours
+- Wetbulb temperature:
+    names:
+    - Wetbulb temperature
+    units: degC
+- Wind speed unit code:
+    names:
+    - Wind speed unit code
+    units: '1'
+- cavok flag:
+    names:
+    - cavok flag
+    units: '1'
+- cloud base amount code (see documentation):
+    names:
+    - cloud base amount code (see documentation)
+    units: '1'
+- cloud base height code:
+    names:
+    - cloud base height code
+    units: decametres
+- 'cloud base height code #1':
+    names:
+    - 'cloud base height code #1'
+    units: decametres
+- 'cloud base height code #2':
+    names:
+    - 'cloud base height code #2'
+    units: decametres
+- 'cloud base height code #3':
+    names:
+    - 'cloud base height code #3'
+    units: decametres
+- 'cloud base height code #4':
+    names:
+    - 'cloud base height code #4'
+    units: decametres
+- 'cloud type code #1':
+    names:
+    - 'cloud type code #1'
+    units: '1'
+- 'cloud type code #2':
+    names:
+    - 'cloud type code #2'
+    units: '1'
+- 'cloud type code #3':
+    names:
+    - 'cloud type code #3'
+    units: '1'
+- 'cloud type code #4':
+    names:
+    - 'cloud type code #4'
+    units: '1'
+- derived hour sunshine:
+    names:
+    - derived hour sunshine
+    units: hours
+- descriptor - relative humidity:
+    names:
+    - descriptor - relative humidity
+    units: '1'
+- high cloud type code (see documentation):
+    names:
+    - high cloud type code (see documentation)
+    units: '1'
+- identifier type:
+    names:
+    - identifier type
+    units: '1'
+- 'layer cloud amount code #1':
+    names:
+    - 'layer cloud amount code #1'
+    units: '1'
+- 'layer cloud amount code #2':
+    names:
+    - 'layer cloud amount code #2'
+    units: '1'
+- 'layer cloud amount code #3':
+    names:
+    - 'layer cloud amount code #3'
+    units: '1'
+- 'layer cloud amount code #4':
+    names:
+    - 'layer cloud amount code #4'
+    units: '1'
+- low cloud type code (see documentation):
+    names:
+    - low cloud type code (see documentation)
+    units: '1'
+- mean sea level air pressure:
+    names:
+    - mean sea level air pressure
+    units: hPa
+- medium cloud type code (see documentation):
+    names:
+    - medium cloud type code (see documentation)
+    units: '1'
+- message type:
+    names:
+    - message type
+    units: '1'
+- midas qc version number:
+    names:
+    - midas qc version number
+    units: '1'
+- 'past weather code #1 (see documentation)':
+    names:
+    - 'past weather code #1 (see documentation)'
+    units: '1'
+- 'past weather code #2 (see documentation)':
+    names:
+    - 'past weather code #2 (see documentation)'
+    units: '1'
+- present weather code (see documentation):
+    names:
+    - present weather code (see documentation)
+    units: '1'
+- source operation type code:
+    names:
+    - source operation type code
+    units: '1'
+- state indicator for the record:
+    names:
+    - state indicator for the record
+    units: '1'
+- station identifier:
+    names:
+    - station identifier
+    units: '1'
+- unique source identifier or station site number:
+    names:
+    - unique source identifier or station site number
+    units: '1'
+- vertical visibility:
+    names:
+    - vertical visibility
+    units: decametres
+- visibility:
+    names:
+    - visibility
+    units: decametres
+- wind direction:
+    names:
+    - wind direction
+    units: deg true
+- wind speed:
+    names:
+    - wind speed
+    units: knots
