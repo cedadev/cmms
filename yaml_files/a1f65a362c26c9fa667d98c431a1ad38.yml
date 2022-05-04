@@ -8,11 +8,99 @@ phenomena:
 - Atmospheric Winds:
     gcmd_keyword: Atmospheric Winds
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0027
-- Windspeed
-- 10 Minute Mean Wind Speed
-- 10 Minute Mean Wind Direction
-- Wind Gusts At 10 m
-- 10 Metre U Wind
-- 10 Metre V Wind
-- Mean Hourly Wind Speed
-- Mean Hourly Wind Direction
+- Clock time of maximum gust HHMM:
+    names:
+    - Clock time of maximum gust HHMM
+    units: s
+- Date at end of observation period:
+    names:
+    - Date at end of observation period
+    units: s
+- 'Descriptor: Direction of maximum wind gust':
+    names:
+    - 'Descriptor: Direction of maximum wind gust'
+    units: '1'
+- 'Descriptor: Mean wind direction':
+    names:
+    - 'Descriptor: Mean wind direction'
+    units: '1'
+- 'Descriptor: Mean wind speed':
+    names:
+    - 'Descriptor: Mean wind speed'
+    units: '1'
+- 'Descriptor: Speed of maximum wind gust':
+    names:
+    - 'Descriptor: Speed of maximum wind gust'
+    units: '1'
+- Direction of maximum wind gust:
+    names:
+    - Direction of maximum wind gust
+    units: deg true
+- Elapsed time to storage in MIDAS:
+    names:
+    - Elapsed time to storage in MIDAS
+    units: minutes
+- Mean wind direciton:
+    names:
+    - Mean wind direciton
+    units: deg true
+- Mean wind speed:
+    names:
+    - Mean wind speed
+    units: knots
+- Met Office receipt stamp time:
+    names:
+    - Met Office receipt stamp time
+    units: s
+- Observation hour count:
+    names:
+    - Observation hour count
+    units: hours
+- 'QC code: Clock time of maximum gust HHMM':
+    names:
+    - 'QC code: Clock time of maximum gust HHMM'
+    units: '1'
+- 'QC code: Direction of maximum wind gust':
+    names:
+    - 'QC code: Direction of maximum wind gust'
+    units: '1'
+- 'QC code: Mean wind direction':
+    names:
+    - 'QC code: Mean wind direction'
+    units: '1'
+- 'QC code: Mean wind speed':
+    names:
+    - 'QC code: Mean wind speed'
+    units: '1'
+- 'QC code: Speed of maximum wind gust':
+    names:
+    - 'QC code: Speed of maximum wind gust'
+    units: '1'
+- Speed of maximum wind gust:
+    names:
+    - Speed of maximum wind gust
+    units: knots
+- identifier type:
+    names:
+    - identifier type
+    units: '1'
+- message type:
+    names:
+    - message type
+    units: '1'
+- midas qc version number:
+    names:
+    - midas qc version number
+    units: '1'
+- state indicator for the record:
+    names:
+    - state indicator for the record
+    units: '1'
+- station identifier:
+    names:
+    - station identifier
+    units: '1'
+- unique source identifier or station site number:
+    names:
+    - unique source identifier or station site number
+    units: '1'
