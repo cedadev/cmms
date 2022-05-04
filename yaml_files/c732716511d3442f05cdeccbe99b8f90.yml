@@ -7,3 +7,63 @@ phenomena:
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P041/4/G288
 - Duration Of Rain
 - 12 Hours Rainfall Amount
+- Date of observation:
+    names:
+    - Date of observation
+    units: s
+- 'Descriptor: precipitation amount':
+    names:
+    - 'Descriptor: precipitation amount'
+    units: '1'
+- 'Elapsed time to storage in MIDAS ':
+    names:
+    - 'Elapsed time to storage in MIDAS '
+    units: minutes
+- Met Office receipt stamp time:
+    names:
+    - Met Office receipt stamp time
+    units: s
+- Observation day count:
+    names:
+    - Observation day count
+    units: day
+- Precipitation amount:
+    names:
+    - Precipitation amount
+    units: mm
+- 'QC code: observation day count':
+    names:
+    - 'QC code: observation day count'
+    units: '1'
+- 'QC code: precipitation amount':
+    names:
+    - 'QC code: precipitation amount'
+    units: '1'
+- clock time at end of observation as HHMM:
+    names:
+    - clock time at end of observation as HHMM
+    units: s
+- identifier type:
+    names:
+    - identifier type
+    units: '1'
+- message type:
+    names:
+    - message type
+    units: '1'
+- midas qc version number:
+    names:
+    - midas qc version number
+    units: '1'
+- state indicator for the record:
+    names:
+    - state indicator for the record
+    units: '1'
+- station identifier:
+    names:
+    - station identifier
+    units: '1'
+- unique source identifier or station site number:
+    names:
+    - unique source identifier or station site number
+    units: '1'
