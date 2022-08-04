@@ -4,7 +4,7 @@ splice rules:
   size: append
   
 n_files: 999
-size: 666mb
+size: 555 Gb
   
 phenomena:
 - Air Temperature:
