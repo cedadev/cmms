@@ -1,5 +1,7 @@
 splice rules:
   phenomena: cmms_only
+  n_files:cmms_only
+  size:append
 phenomena:
 - Air Temperature:
     gcmd_keyword: Air Temperature
