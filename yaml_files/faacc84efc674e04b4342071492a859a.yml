@@ -1,11 +1,6 @@
 splice rules:
   phenomena: cmms_only
-  n_files: cmms_only
-  size: append
-  
-n_files: 999
-size: 555 Gb
-  
+
 phenomena:
 - Air Temperature:
     gcmd_keyword: Air Temperature
