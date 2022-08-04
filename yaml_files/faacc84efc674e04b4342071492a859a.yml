@@ -3,8 +3,8 @@ splice rules:
   n_files: cmms_only
   size: append
   
-n_files: 999mb
-size: 666
+n_files: 999
+size: 666mb
   
 phenomena:
 - Air Temperature:
