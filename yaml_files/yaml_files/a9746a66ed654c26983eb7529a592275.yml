@@ -1,4 +1,99 @@
-splice rules:phenomena: cmms_only
+splice rules:
+phenomena: cmms_only
 
 phenomena:
-- Air Temperature:\n    
+ -  Date of start of run:
+ -  Day number of the year:
+ -  Mission identifier:
+ -  Flight leg number:
+ -  Flight leg flux run number:
+ -  Mean time of flux run (seconds into day):
+ -  Start time of run (seconds into day):
+ -  End time of run (seconds into day):
+ -  Latitude (deg):
+ -  Longitude (deg):
+ -  Heading (deg):
+ -  Length of run (km):
+ -  GPS altitude (m):
+ -  Radar altitude (m):
+ -  Air pressure (hPa):
+ -  x wind component (m s-1):
+ -  y wind component (m s-1):
+ -  Vertical wind velocity (m s-1):
+ -  Square of the vertical wind velocity perturbations, AKA the variance of the z wind component:
+ -  Horisontal wind speed (m s-1):
+ -  Wind direction (deg):
+ -  Turbulent kinetic energy (m-2 s-2):
+ -  x wind component from pitot tube (m s-1):
+ -  y wind component from pitot tube (m s-1):
+ -  Horizontal wind speed  from pitot tube (m s-1):
+ -  Wind direction from pitot tube (deg):
+ -  Air temperature (K):
+ -  Dew point temperature (K) from BUCK:
+ -  Dew point temperature (K) from LICOR:
+ -  Air specific humidity (g/kg) from BUCK:
+ -  Air specific humidity (g/kg) from LICOR:
+ -  relative humidity wrt water :
+ -  Potential temperature:
+ -  Equivalent potential temperature:
+ -  Brunt Vaisala frequency squared, between sfc and flight level:
+ -  Dry air density (kg m-3):
+ -  Moist air density (kg m-3):
+ -  Mean sea level pressure (hPa):
+ -  Surface temperature (K):
+ -  Surface temperature standard deviation (K):
+ -  Surface air specific humidity (g kg-1):
+ -  Short wave upward component heat flux (W m-2):
+ -  Short wave downward component heat flux (W m-2):
+ -  Long wave upward component heat flux (W m-2):
+ -  Long wave downward component heat flux (W m-2):
+ -  albedo:
+ -  albedo std:
+ -  2-m temperature (K):
+ -  2-m specific humidity (g kg-1):
+ -  2-m relative humidity (:
+ -  10-m wind speed:
+ -  10-m neutral wind speed:
+ -  Monin-Obukhov length (m):
+ -  Wind stress (N m-2):
+ -  U component of momentum flux (N m-2):
+ -  V component of momentum flux (N m-2):
+ -  Friction velocity (m s-1):
+ -  Surface roughness length (m):
+ -  10-m neutral drag coefficient:
+ -  Turbulent heat flux (W m-2):
+ -  Sensible heat flux (W m-2):
+ -  Friction potential temperature (K):
+ -  Friction temperature (K):
+ -  Surface roughness lenght wrt heat (m):
+ -  10-m neutral heat exchange coefficient:
+ -  Latent heat flux (W m-2):
+ -  Friction moisture (g kg-1):
+ -  Surface roughness lenght wrt moisture (m):
+ - 10-m neutral moisture exchange coefficient:
+ -  roughness reynolds number:
+ - Wind stress (N m-2):
+ - Sensible heat flux (W m-2):
+ - Latent heat flux (W m-2):
+ -  Liquid water content in g/cm3 :
+ -  Liquid water content mixing ratio in g/g :
+ -  Frozen water content in g/cm3 :
+ -  Frozen water content mixint ratio in g/g :
+ -  Small particle content in g/cm3 :
+ -  Small particle content mixing ratio in g/g :
+ -  z0T divided by z0:
+ -  z0q divided by z0:
+ -  Short wave downward component heat flux at surface (W m-2):
+ -  Short wave upward component heat flux at surface (W m-2):
+ -  Long wave downward component heat flux at surface (W m-2):
+ -  Long wave upward component heat flux at surface (W m-2):
+ -  Sensible heat flux at surface (W m-2):
+ -  Latent heat flux at surface (W m-2):
+ -  Turbulent heat flux at surface (W m-2):
+ -  U component of momentum flux at surface (N m-2):
+ -  V component of momentum flux at surface (N m-2):
+ -  Wind stress (N m-2):
+ -  Total cloud cover:
+ -  Low level cloud cover:
+ -  Total column water vapour:
+ -  Total column cloud liquid water:
