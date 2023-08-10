@@ -2,7 +2,6 @@ splice rules:
 phenomena: cmms_only
 
 phenomena:
-
 - Date of start of run
 - Day number of the year
 - Mission identifier
