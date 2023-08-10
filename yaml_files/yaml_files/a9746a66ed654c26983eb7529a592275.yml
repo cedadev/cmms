@@ -70,11 +70,11 @@ phenomena:
 - Latent heat flux (W m-2)
 - Friction moisture (g kg-1)
 - Surface roughness lenght wrt moisture (m)
--10-m neutral moisture exchange coefficient
+- 10-m neutral moisture exchange coefficient
 - roughness reynolds number
--Wind stress (N m-2)
--Sensible heat flux (W m-2)
--Latent heat flux (W m-2)
+- Wind stress (N m-2)
+- Sensible heat flux (W m-2)
+- atent heat flux (W m-2)
 - Liquid water content in g/cm3 
 - Liquid water content mixing ratio in g/g 
 - Frozen water content in g/cm3 
@@ -97,4 +97,3 @@ phenomena:
 - Low level cloud cover
 - Total column water vapour
 - Total column cloud liquid water
-
