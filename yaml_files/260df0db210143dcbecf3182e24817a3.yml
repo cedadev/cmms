@@ -1,9 +1,7 @@
 splice rules:
   accessType: cmms_only
-  licenceUrl: cmms_only
-
+  # licenceUrl: cmms_only
 # one of: public|registered|restricted
 accessType: public
-
 # url to licence  
 licenceUrl: http://creativecommons.org/licenses/by/4.0/
