@@ -1,0 +1,9 @@
+splice rules:
+  accessType: cmms_only
+  licenceUrl: cmms_only
+
+# one of: public|registered|restricted
+accessType: registered
+
+# url to licence  
+licenceUrl: http://www.ukssdc.ac.uk/cgi-bin/wdcc1/userreg.pl
