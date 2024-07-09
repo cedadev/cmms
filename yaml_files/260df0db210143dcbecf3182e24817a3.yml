@@ -4,4 +4,4 @@ splice rules:
 # one of: public|registered|restricted
 accessType: public
 # url to licence  
-licenceUrl: http://creativecommons.org/licenses/by/4.0/
+licenceUrl: http://creativecommons.org/licenses/by/4.0/testdevbranch
