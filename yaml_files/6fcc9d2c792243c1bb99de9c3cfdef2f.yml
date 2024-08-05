@@ -1,0 +1,4 @@
+
+# one of: public|registered|restricted
+accessType: public
+licenceUrl: https://github.com/IPCC-WG1/Chapter-7/blob/main/LICENSE

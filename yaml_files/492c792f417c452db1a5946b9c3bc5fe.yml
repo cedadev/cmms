@@ -34,3 +34,7 @@ phenomena:
 - Atmospheric Phenomena:
     gcmd_keyword: Atmospheric Phenomena
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P131/4/GTER0022
+
+# one of: public|registered|restricted
+accessType: registered
+licenceUrl: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
