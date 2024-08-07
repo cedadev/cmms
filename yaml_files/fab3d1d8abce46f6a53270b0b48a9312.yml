@@ -1,0 +1,4 @@
+
+# one of: public|registered|restricted
+accessType: public
+licenceUrl: https://www.eumetsat.int/data-policy/eumetsat-data-policy.pdf

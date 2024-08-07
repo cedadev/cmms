@@ -1,0 +1,4 @@
+
+# one of: public|registered|restricted
+accessType: registered
+licenceUrl: http://www.ukssdc.ac.uk/cgi-bin/wdcc1/userreg.pl

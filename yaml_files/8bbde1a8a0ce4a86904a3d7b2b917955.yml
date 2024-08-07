@@ -1,0 +1,4 @@
+
+# one of: public|registered|restricted
+accessType: public
+licenceUrl: http://licences.ceda.ac.uk/image/data_access_condition/esacci_seaice_terms_and_conditions.pdf
