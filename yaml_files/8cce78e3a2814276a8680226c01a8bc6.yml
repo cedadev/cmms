@@ -2,7 +2,7 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - DBZH:
-    units: 3D reflectivity composite
+    long_name: 3D reflectivity composite
 - ZDR:
    names: 3D ZDR composite
 - RHOHV: 
