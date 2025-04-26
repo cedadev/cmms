@@ -21,9 +21,9 @@ phenomena:
    var_id: VII
 - (lightning) Criterion Index:
    var_id: CRIT_IND
-- SHI
+- SHI:
    names: these are hail and lightning indices derived from formulae in Witt et al. (c. 1998)
-- POSH
+- POSH:
    names: these are hail and lightning indices derived from formulae in Witt et al. (c. 1998)
 - MEHS:
    names: these are hail and lightning indices derived from formulae in Witt et al. (c. 1998)
