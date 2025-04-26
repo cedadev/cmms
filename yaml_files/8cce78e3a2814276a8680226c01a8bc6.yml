@@ -21,5 +21,7 @@ phenomena:
    long_name: Vertically Integrated Ice
  - CRIT_IND:  
    long_name: (lightning) Criterion Index
- - SHI, POSH, MEHS:
+ - SHI
+ - POSH
+ - MEHS:
    long_name: these are hail and lightning indices derived from formulae in Witt et al. (c. 1998)
