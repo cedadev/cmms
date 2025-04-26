@@ -1,27 +1,5 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
- - DBZH: 
-   names: 3D reflectivity composite
- - ZDR:
-   names: 3D ZDR composite
- - RHOHV: 
-   names: 3D Fisher-Z (arctanh) -transformed RHOHV composite
- - MAXDBZ:
-   names: 2D “column maximum”, derived from DBZH
- - VIL:
-   names: 2D Vertically Integrated Liquid water
- - TOP45: 
-   names: echo top heights (highest height level) for DBZH > 45
- - TOP18: 
-   names: echo top heights (highest height level) for DBZH > 18
- - POH:  
-   names: Probability of Hail; equal to f * ( TOP45 – height of T=0C isotherm )
- - VII:
-   names: Vertically Integrated Ice
- - CRIT_IND:  
-   names: (lightning) Criterion Index
- - SHI
- - POSH
- - MEHS:
-   names: these are hail and lightning indices derived from formulae in Witt et al. (c. 1998)
+- DBZH:
+    units: 3D reflectivity composite
