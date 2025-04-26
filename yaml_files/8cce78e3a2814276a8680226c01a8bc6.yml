@@ -1,8 +1,6 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
-var_id: absolute_humidity
-long_name: Absolute Humidity
 - 3D reflectivity composite:
    var_id: DBZH
 - 3D ZDR composite:
