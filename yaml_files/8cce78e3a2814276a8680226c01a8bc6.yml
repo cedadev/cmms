@@ -2,7 +2,6 @@ splice rules:
   phenomena: cmms_only
   
 phenomena:
-  names:\n    - Air Temperature
  - DBZH: 
    names: 3D reflectivity composite
  - ZDR:
