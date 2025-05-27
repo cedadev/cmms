@@ -34,4 +34,4 @@ accessType: restricted
 accessRoles:
     - sting_jet
 
-licenceUrl: http://licences.ceda.ac.uk/image/data_access_condition/ukmo_agreement.pdf
+licenceUrl: https://artefacts.ceda.ac.uk/licences/specific_licences/ukmo_agreement.pdf
