@@ -1,3 +1,6 @@
+splice rules:
+  licenceUrl: default
+  accessType: default
 
 # one of: public|registered|restricted
 accessType: public
