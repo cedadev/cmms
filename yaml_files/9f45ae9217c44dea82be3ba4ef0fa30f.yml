@@ -2,62 +2,62 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Maximum air temperature:
-  standard_name: "air_temperature"
-  units: "degC"
+  standard_name: air_temperature
+  units: degC
 - Minimum air temperature:
-  standard_name: "air_temperature"
-  units: "degC"
+  standard_name: air_temperature
+  units: degC
 - Annual average of air temperature:
-  standard_name: "air_temperature"
-  units: "degC"
+  standard_name: air_temperature
+  units: degC
 - Annual average air temperature of summer months (JJA):
-  standard_name: "air_temperature"
-  units: "degC"
+  standard_name: air_temperature
+  units: degC
 - Annual average air temperature of winter months (DJF):
-  long_name: "air_temperature"
-  units: "degC"
+  long_name: air_temperature
+  units: degC
 - Annual average of the mean of the 10 warmest summer days (JJA):
-  units: "degC"
-  standard_name: "air_temperature"
+  units: degC
+  standard_name: air_temperature
 - Annual average of the mean of the 10 coldest winter nights (DJF):
-  units: "degC"
-  standard_name: "air_temperature"
+  units: degC
+  standard_name: air_temperature
 - Annual average of heatwave length:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "days"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: days
 - Annual average of heatwave frequency:
-  standard_name: "spell_length_of_days_with_air_temperature_above_threshold"
-  units: "events"
-- Annual average air temperature of the eighth warmest night":
-  standard_name: "air_temperature"
-  units: "degC"
+  standard_name: spell_length_of_days_with_air_temperature_above_threshold
+  units: events
+- Annual average air temperature of the eighth warmest night:
+  standard_name: air_temperature
+  units: degC
 - Annual average of summer days exceeding 25C:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: count
 - Annual average of hot summer days exceeding 30C:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: count
 - Annual average of hot summer days exceeding 35C:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: count
 - Annual average of warm nights exceeding 15C:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: count
 - Annual average of tropical nights exceeding 20C:
-  standard_name: "number_of_days_with_air_temperature_above_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_above_threshold
+  units: count
 - Annual average of frost days with minima not exceeding 0C:
-  standard_name: "number_of_days_with_air_temperature_below_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_below_threshold
+  units: count
 - Annual average of icing days with maxima not exceeding 0C:
-  standard_name: "number_of_days_with_air_temperature_below_threshold"
-  units: "count"
+  standard_name: number_of_days_with_air_temperature_below_threshold
+  units: count
 - Annual average of growing degree days:
-  standard_name: "integral_wrt_time_of_air_temperature_excess"
-  units: "degree-days"
+  standard_name: integral_wrt_time_of_air_temperature_excess
+  units: degree-days
 - Annual average of heating degree days:
-  standard_name: "integral_wrt_time_of_air_temperature_deficit"
-  units: "degree-days"
+  standard_name: integral_wrt_time_of_air_temperature_deficit
+  units: degree-days
 - Annual average of cooling degree days:
-  standard_name: "integral_wrt_time_of_air_temperature_excess"
-  units: "degree-days"
+  standard_name: integral_wrt_time_of_air_temperature_excess
+  units: degree-days
