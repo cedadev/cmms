@@ -8,13 +8,13 @@ phenomena:
     standard_name: air_temperature
     units: degC
 - Annual average of air temperature:
-      standard_name: air_temperature
+    standard_name: air_temperature
     units: degC
 - Annual average air temperature of summer months (JJA):
-      standard_name: air_temperature
+    standard_name: air_temperature
     units: degC
 - Annual average air temperature of winter months (DJF):
-    long_name: air_temperature
+    standard_name: air_temperature
     units: degC
 - Annual average of the mean of the 10 warmest summer days (JJA):
     units: degC
