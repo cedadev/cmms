@@ -2,5 +2,4 @@ splice rules:
   phenomena: cmms_only
 phenomena:
 - Maximum air temperature:
-    standard_name: air_temperature
     units: degC
