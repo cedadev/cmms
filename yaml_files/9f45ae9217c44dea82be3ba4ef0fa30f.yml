@@ -3,3 +3,4 @@ splice rules:
 phenomena:
 - Maximum air temperature:
     units: degC
+    standard_name: air_temperature
