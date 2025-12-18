@@ -4,10 +4,6 @@ phenomena:
 - Maximum air temperature:
     units: degC
     standard_name: air_temperature
-phenomena:
-- Maximum air temperature:
-    units: degC
-    standard_name: air_temperature
 - Minimum air temperature:
     standard_name: air_temperature
     units: degC
