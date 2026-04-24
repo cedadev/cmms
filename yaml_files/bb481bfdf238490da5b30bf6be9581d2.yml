@@ -1,13 +1,11 @@
 splice rules:
-  - phenomena: cmms_only
-
+  phenomena: cmms_only
 phenomena:
-  - Air Temperature:
+- Air Temperature:
     gcmd_keyword: Air Temperature
     gcmd_url: http://vocab.ndg.nerc.ac.uk/term/P141/4/GVAR0027
-    names:
-    - Air Temperature
-  - Pressure
-  - Wet Bulb Temperature
-  - Wind Force
-  - Wind Direction
+- Pressure
+- Wet Bulb Temperature
+- Wind Force
+- Wind Direction
+- Present Weather
