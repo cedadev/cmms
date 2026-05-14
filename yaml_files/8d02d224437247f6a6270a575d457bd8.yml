@@ -1,29 +1,29 @@
 splice rules:
   phenomena: cmms_only
 phenomena:
+- SAIL effective Leaf Area Index:
+    units: m2.m-2
+    var_id: LAI
+- LAI standard_error:
+    units: m2.m-2
+    var_id: LAI_ERR    
 - DIAG fraction of Absorbed Photosynthetically Active Radiation using diffuse ASTMG173:
     units: '1'
     var_id: fAPAR
+- fAPAR standard_error:
+    units: '1'
+    var_id: fAPAR_ERR
 - LAI fAPAR standard_error_correlation:
     units: '1'
     var_id: LAI_fAPAR_correl
-- LAI standard_error:
-    units: m2.m-2
-    var_id: LAI_ERR
 - Number of data contributions to cost function in retrival:
     units: '1'
     var_id: n_bands_used
 - Probability of Chi-square statistics; low values mark bad correspondence of model and data.:
     units: '1'
     var_id: p_chisquare
-- SAIL effective Leaf Area Index:
-    units: m2.m-2
-    var_id: LAI
 - crs:
     var_id: crs
-- fAPAR standard_error:
-    units: '1'
-    var_id: fAPAR_ERR
 - inversion code:
     var_id: invcode
 - lat_bnds:
