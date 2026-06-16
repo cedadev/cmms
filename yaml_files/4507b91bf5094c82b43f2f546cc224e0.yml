@@ -1,5 +1,6 @@
 splice rules:
   phenomena: cmms_only
+  default: cmms_only
 phenomena:
 - Annual LTA of Number of days in the month with air frost (minimum temperature below zero):
     units: '1.0'
