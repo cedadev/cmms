@@ -180,3 +180,10 @@ phenomena:
     var_id: time_bnds
 - transverse_mercator:
     var_id: transverse_mercator
+n_files: 9907
+size: 497388062925
+format: Data are NetCDF formatted
+licences:
+- http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+access_types:
+- public
