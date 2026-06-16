@@ -1,0 +1,189 @@
+splice rules:
+  phenomena: cmms_only
+phenomena:
+- Annual LTA of Number of days in the month with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Annual LTA of Number of days in the month with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Annual LTA of Number of days in the month with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Ground frost:
+    units: '1.0'
+    var_id: groundfrost
+    standard_name: number_of_days_with_surface_temperature_below_threshold
+- Maximum air temperature:
+    standard_name: air_temperature
+    units: degC
+    var_id: tasmax
+- Mean air temperature:
+    standard_name: air_temperature
+    var_id: tas
+    units: degC
+- Minimum air temperature:
+    standard_name: air_temperature
+    units: degC
+    var_id: tasmin
+- Monthly LTA of Number of days in the month with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Monthly LTA of Number of days in the month with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Monthly LTA of Number of days in the month with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Monthly LTA of number of days in the month with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- Number of days in the month with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Number of days in the month with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- Number of days in the month with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Number of days in the month with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Number of days in the season with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Number of days in the season with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- Number of days in the season with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Number of days in the season with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Number of days in the year with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Number of days in the year with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- Number of days in the year with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Number of days in the year with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Seasonal LTA of Number of days in the month with air frost (minimum temperature below zero):
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_below_threshold
+    var_id: airfrost
+- Seasonal LTA of Number of days in the month with precipitation amount >= 10mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays10mm
+- Seasonal LTA of Number of days in the month with precipitation amount >= 1mm:
+    units: '1.0'
+    standard_name: number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold
+    var_id: raindays1mm
+- Sunshine hours:
+    standard_name: duration_of_sunshine
+    units: hour
+    var_id: sun
+- Total rainfall:
+    units: mm
+    var_id: rainfall
+    standard_name: lwe_thickness_of_precipitation_amount
+- Wind speed at 10m:
+    units: m s-1
+    standard_name: wind_speed
+    var_id: sfcWind
+- air_temperature:
+    standard_name: air_temperature
+    var_id: air_temperature
+    units: degC
+- annual LTA of number of days in the year with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- area_type:
+    standard_name: area_type
+    var_id: area_type
+- clim_season:
+    var_id: clim_season
+- latitude:
+    units: degrees_north
+    standard_name: latitude
+    var_id: latitude
+- longitude:
+    units: degrees_east
+    standard_name: longitude
+    var_id: longitude
+- lwe_thickness_of_precipitation_amount:
+    units: mm
+    standard_name: lwe_thickness_of_precipitation_amount
+    var_id: lwe_thickness_of_precipitation_amount
+- month_number:
+    units: '1'
+    var_id: month_number
+- projection_x_coordinate:
+    units: m
+    standard_name: projection_x_coordinate
+    var_id: projection_x_coordinate
+- projection_x_coordinate_bnds:
+    var_id: projection_x_coordinate_bnds
+- projection_y_coordinate:
+    units: m
+    standard_name: projection_y_coordinate
+    var_id: projection_y_coordinate
+- projection_y_coordinate_bnds:
+    var_id: projection_y_coordinate_bnds
+- season_year:
+    units: '1'
+    var_id: season_year
+- seasonal LTA of number of days in the season with maximum temperature above 25:
+    units: '1.0'
+    standard_name: number_of_days_with_air_temperature_above_threshold
+    var_id: summerdays
+- surface_snow_area_fraction:
+    units: '1'
+    standard_name: surface_snow_area_fraction
+    var_id: surface_snow_area_fraction
+- surface_temperature:
+    units: degC
+    standard_name: surface_temperature
+    var_id: surface_temperature
+- time:
+    standard_name: time
+    var_id: time
+    units: hours
+- time_bnds:
+    var_id: time_bnds
+- transverse_mercator:
+    var_id: transverse_mercator
+n_files: 9907
+size: 497388062925
+format: Data are NetCDF formatted
+licences:
+- http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+access_types:
+- registered
