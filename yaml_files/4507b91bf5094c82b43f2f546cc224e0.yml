@@ -180,3 +180,7 @@ phenomena:
     var_id: time_bnds
 - transverse_mercator:
     var_id: transverse_mercator
+licences:
+- http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+access_types:
+- public
