@@ -1,7 +1,7 @@
 splice rules:
   phenomena: cmms_only
-  licence: cmms_only
-  access_type: cmms_only
+  licences: cmms_only
+  access_types: cmms_only
 phenomena:
 - Annual LTA of Number of days in the month with air frost (minimum temperature below zero):
     units: '1.0'
@@ -182,7 +182,7 @@ phenomena:
     var_id: time_bnds
 - transverse_mercator:
     var_id: transverse_mercator
-licence:
+licences:
 - http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-access_type:
+access_types:
 - public
